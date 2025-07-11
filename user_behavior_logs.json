@@ -1,0 +1,5746 @@
+[
+  {
+    "timestamp": "2025-06-09T14:59:32.224242",
+    "event_type": "dataset_uploaded",
+    "details": {
+      "filename": "processed_data (2).csv",
+      "size": 779
+    },
+    "dataset_metadata": {
+      "num_rows": 779,
+      "num_cols": 19,
+      "num_numeric": 9,
+      "num_categorical": 10,
+      "num_datetime": 0,
+      "has_roi": true,
+      "has_time": true,
+      "has_performance": true,
+      "categorical_ratio": 0.5263157894736842,
+      "numeric_ratio": 0.47368421052631576,
+      "numeric_heavy": false,
+      "categorical_heavy": true,
+      "small_dataset": false,
+      "large_dataset": false,
+      "sequential_data": true,
+      "distribution_focus": true,
+      "has_performance_metrics": true
+    },
+    "session_id": "2025-06-09 14:59:15.323454"
+  },
+  {
+    "timestamp": "2025-06-09T14:59:50.577343",
+    "event_type": "dataset_uploaded",
+    "details": {
+      "filename": "processed_data (2).csv",
+      "size": 779
+    },
+    "dataset_metadata": {
+      "num_rows": 779,
+      "num_cols": 19,
+      "num_numeric": 9,
+      "num_categorical": 10,
+      "num_datetime": 0,
+      "has_roi": true,
+      "has_time": true,
+      "has_performance": true,
+      "categorical_ratio": 0.5263157894736842,
+      "numeric_ratio": 0.47368421052631576,
+      "numeric_heavy": false,
+      "categorical_heavy": true,
+      "small_dataset": false,
+      "large_dataset": false,
+      "sequential_data": true,
+      "distribution_focus": true,
+      "has_performance_metrics": true
+    },
+    "session_id": "2025-06-09 14:59:15.323454"
+  },
+  {
+    "timestamp": "2025-06-09T14:59:50.626370",
+    "event_type": "layout_applied",
+    "details": {
+      "layout_name": "ROI Optimization"
+    },
+    "dataset_metadata": {
+      "num_rows": 779,
+      "num_cols": 19,
+      "num_numeric": 9,
+      "num_categorical": 10,
+      "num_datetime": 0,
+      "has_roi": true,
+      "has_time": true,
+      "has_performance": true,
+      "categorical_ratio": 0.5263157894736842,
+      "numeric_ratio": 0.47368421052631576,
+      "numeric_heavy": false,
+      "categorical_heavy": true,
+      "small_dataset": false,
+      "large_dataset": false,
+      "sequential_data": true,
+      "distribution_focus": true,
+      "has_performance_metrics": true
+    },
+    "session_id": "2025-06-09 14:59:15.323454"
+  },
+  {
+    "timestamp": "2025-06-09T14:59:57.613435",
+    "event_type": "dataset_uploaded",
+    "details": {
+      "filename": "processed_data (2).csv",
+      "size": 779
+    },
+    "dataset_metadata": {
+      "num_rows": 779,
+      "num_cols": 19,
+      "num_numeric": 9,
+      "num_categorical": 10,
+      "num_datetime": 0,
+      "has_roi": true,
+      "has_time": true,
+      "has_performance": true,
+      "categorical_ratio": 0.5263157894736842,
+      "numeric_ratio": 0.47368421052631576,
+      "numeric_heavy": false,
+      "categorical_heavy": true,
+      "small_dataset": false,
+      "large_dataset": false,
+      "sequential_data": true,
+      "distribution_focus": true,
+      "has_performance_metrics": true
+    },
+    "session_id": "2025-06-09 14:59:15.323454"
+  },
+  {
+    "timestamp": "2025-06-09T14:59:57.662414",
+    "event_type": "feedback_positive",
+    "details": {
+      "layout_name": "ROI Optimization"
+    },
+    "dataset_metadata": {
+      "num_rows": 779,
+      "num_cols": 19,
+      "num_numeric": 9,
+      "num_categorical": 10,
+      "num_datetime": 0,
+      "has_roi": true,
+      "has_time": true,
+      "has_performance": true,
+      "categorical_ratio": 0.5263157894736842,
+      "numeric_ratio": 0.47368421052631576,
+      "numeric_heavy": false,
+      "categorical_heavy": true,
+      "small_dataset": false,
+      "large_dataset": false,
+      "sequential_data": true,
+      "distribution_focus": true,
+      "has_performance_metrics": true
+    },
+    "session_id": "2025-06-09 14:59:15.323454"
+  },
+  {
+    "timestamp": "2025-06-09T15:00:20.580224",
+    "event_type": "dataset_uploaded",
+    "details": {
+      "filename": "processed_data (2).csv",
+      "size": 779
+    },
+    "dataset_metadata": {
+      "num_rows": 779,
+      "num_cols": 19,
+      "num_numeric": 9,
+      "num_categorical": 10,
+      "num_datetime": 0,
+      "has_roi": true,
+      "has_time": true,
+      "has_performance": true,
+      "categorical_ratio": 0.5263157894736842,
+      "numeric_ratio": 0.47368421052631576,
+      "numeric_heavy": false,
+      "categorical_heavy": true,
+      "small_dataset": false,
+      "large_dataset": false,
+      "sequential_data": true,
+      "distribution_focus": true,
+      "has_performance_metrics": true
+    },
+    "session_id": "2025-06-09 14:59:15.323454"
+  },
+  {
+    "timestamp": "2025-06-09T15:00:20.642290",
+    "event_type": "layout_previewed",
+    "details": {
+      "layout_name": "ROI Optimization"
+    },
+    "dataset_metadata": {
+      "num_rows": 779,
+      "num_cols": 19,
+      "num_numeric": 9,
+      "num_categorical": 10,
+      "num_datetime": 0,
+      "has_roi": true,
+      "has_time": true,
+      "has_performance": true,
+      "categorical_ratio": 0.5263157894736842,
+      "numeric_ratio": 0.47368421052631576,
+      "numeric_heavy": false,
+      "categorical_heavy": true,
+      "small_dataset": false,
+      "large_dataset": false,
+      "sequential_data": true,
+      "distribution_focus": true,
+      "has_performance_metrics": true
+    },
+    "session_id": "2025-06-09 14:59:15.323454"
+  },
+  {
+    "timestamp": "2025-06-09T15:00:20.812609",
+    "event_type": "extended_viewing",
+    "details": {
+      "layout_name": "ROI Optimization",
+      "duration_seconds": 30.170946
+    },
+    "dataset_metadata": {
+      "num_rows": 779,
+      "num_cols": 19,
+      "num_numeric": 9,
+      "num_categorical": 10,
+      "num_datetime": 0,
+      "has_roi": true,
+      "has_time": true,
+      "has_performance": true,
+      "categorical_ratio": 0.5263157894736842,
+      "numeric_ratio": 0.47368421052631576,
+      "numeric_heavy": false,
+      "categorical_heavy": true,
+      "small_dataset": false,
+      "large_dataset": false,
+      "sequential_data": true,
+      "distribution_focus": true,
+      "has_performance_metrics": true
+    },
+    "session_id": "2025-06-09 14:59:15.323454"
+  },
+  {
+    "timestamp": "2025-06-09T15:00:28.803032",
+    "event_type": "dataset_uploaded",
+    "details": {
+      "filename": "processed_data (2).csv",
+      "size": 779
+    },
+    "dataset_metadata": {
+      "num_rows": 779,
+      "num_cols": 19,
+      "num_numeric": 9,
+      "num_categorical": 10,
+      "num_datetime": 0,
+      "has_roi": true,
+      "has_time": true,
+      "has_performance": true,
+      "categorical_ratio": 0.5263157894736842,
+      "numeric_ratio": 0.47368421052631576,
+      "numeric_heavy": false,
+      "categorical_heavy": true,
+      "small_dataset": false,
+      "large_dataset": false,
+      "sequential_data": true,
+      "distribution_focus": true,
+      "has_performance_metrics": true
+    },
+    "session_id": "2025-06-09 14:59:15.323454"
+  },
+  {
+    "timestamp": "2025-06-09T15:00:28.990240",
+    "event_type": "chart_clicked",
+    "details": {
+      "chart_name": "Histogram: Distribution"
+    },
+    "dataset_metadata": {
+      "num_rows": 779,
+      "num_cols": 19,
+      "num_numeric": 9,
+      "num_categorical": 10,
+      "num_datetime": 0,
+      "has_roi": true,
+      "has_time": true,
+      "has_performance": true,
+      "categorical_ratio": 0.5263157894736842,
+      "numeric_ratio": 0.47368421052631576,
+      "numeric_heavy": false,
+      "categorical_heavy": true,
+      "small_dataset": false,
+      "large_dataset": false,
+      "sequential_data": true,
+      "distribution_focus": true,
+      "has_performance_metrics": true
+    },
+    "session_id": "2025-06-09 14:59:15.323454"
+  },
+  {
+    "timestamp": "2025-06-09T21:57:40.658239",
+    "event_type": "preference_updated",
+    "details": {
+      "trends": 7,
+      "comparisons": 5
+    },
+    "dataset_metadata": {},
+    "session_id": "2025-06-09 21:57:30.180952"
+  },
+  {
+    "timestamp": "2025-06-09T21:57:48.946605",
+    "event_type": "dataset_uploaded",
+    "details": {
+      "filename": "processed_data (1).csv",
+      "size": 779
+    },
+    "dataset_metadata": {
+      "num_rows": 779,
+      "num_cols": 17,
+      "num_numeric": 7,
+      "num_categorical": 10,
+      "num_datetime": 0,
+      "has_roi": true,
+      "has_time": true,
+      "has_performance": true,
+      "categorical_ratio": 0.5882352941176471,
+      "numeric_ratio": 0.4117647058823529,
+      "dimensions": [
+        "Date",
+        "Company",
+        "Campaign_Type",
+        "Target_Audience",
+        "Duration",
+        "Channel_Used",
+        "Acquisition_Cost",
+        "Location",
+        "Language",
+        "Customer_Segment"
+      ],
+      "measures": [
+        "Campaign_ID",
+        "Conversion_Rate",
+        "ROI",
+        "Clicks",
+        "Impressions",
+        "Engagement_Score",
+        "Acquisition_Cost_numeric"
+      ],
+      "datetime_cols": [],
+      "numeric_heavy": false,
+      "categorical_heavy": true,
+      "small_dataset": false,
+      "large_dataset": false,
+      "sequential_data": true,
+      "distribution_focus": true,
+      "has_performance_metrics": true,
+      "key_metrics": [
+        "Campaign_ID",
+        "Conversion_Rate",
+        "ROI"
+      ]
+    },
+    "session_id": "2025-06-09 21:57:30.180952"
+  },
+  {
+    "timestamp": "2025-06-09T21:58:02.338101",
+    "event_type": "dataset_uploaded",
+    "details": {
+      "filename": "processed_data.csv",
+      "size": 200000
+    },
+    "dataset_metadata": {
+      "num_rows": 200000,
+      "num_cols": 16,
+      "num_numeric": 5,
+      "num_categorical": 11,
+      "num_datetime": 0,
+      "has_roi": true,
+      "has_time": true,
+      "has_performance": true,
+      "categorical_ratio": 0.6875,
+      "numeric_ratio": 0.3125,
+      "dimensions": [
+        "Date",
+        "Campaign_ID",
+        "Company",
+        "Campaign_Type",
+        "Target_Audience",
+        "Duration",
+        "Channel_Used",
+        "Acquisition_Cost",
+        "Location",
+        "Language",
+        "Customer_Segment"
+      ],
+      "measures": [
+        "Conversion_Rate",
+        "ROI",
+        "Clicks",
+        "Impressions",
+        "Engagement_Score"
+      ],
+      "datetime_cols": [],
+      "numeric_heavy": false,
+      "categorical_heavy": true,
+      "small_dataset": false,
+      "large_dataset": true,
+      "sequential_data": true,
+      "distribution_focus": true,
+      "has_performance_metrics": true,
+      "key_metrics": [
+        "Conversion_Rate",
+        "ROI",
+        "Clicks",
+        "Engagement_Score"
+      ]
+    },
+    "session_id": "2025-06-09 21:57:30.180952"
+  },
+  {
+    "timestamp": "2025-06-09T21:58:19.679420",
+    "event_type": "dataset_uploaded",
+    "details": {
+      "filename": "processed_data.csv",
+      "size": 200000
+    },
+    "dataset_metadata": {
+      "num_rows": 200000,
+      "num_cols": 16,
+      "num_numeric": 5,
+      "num_categorical": 11,
+      "num_datetime": 0,
+      "has_roi": true,
+      "has_time": true,
+      "has_performance": true,
+      "categorical_ratio": 0.6875,
+      "numeric_ratio": 0.3125,
+      "dimensions": [
+        "Date",
+        "Campaign_ID",
+        "Company",
+        "Campaign_Type",
+        "Target_Audience",
+        "Duration",
+        "Channel_Used",
+        "Acquisition_Cost",
+        "Location",
+        "Language",
+        "Customer_Segment"
+      ],
+      "measures": [
+        "Conversion_Rate",
+        "ROI",
+        "Clicks",
+        "Impressions",
+        "Engagement_Score"
+      ],
+      "datetime_cols": [],
+      "numeric_heavy": false,
+      "categorical_heavy": true,
+      "small_dataset": false,
+      "large_dataset": true,
+      "sequential_data": true,
+      "distribution_focus": true,
+      "has_performance_metrics": true,
+      "key_metrics": [
+        "Conversion_Rate",
+        "ROI",
+        "Clicks",
+        "Engagement_Score"
+      ]
+    },
+    "session_id": "2025-06-09 21:57:30.180952"
+  },
+  {
+    "timestamp": "2025-06-09T21:58:19.905148",
+    "event_type": "layout_applied",
+    "details": {
+      "layout_name": "ROI Optimization"
+    },
+    "dataset_metadata": {
+      "num_rows": 200000,
+      "num_cols": 16,
+      "num_numeric": 5,
+      "num_categorical": 11,
+      "num_datetime": 0,
+      "has_roi": true,
+      "has_time": true,
+      "has_performance": true,
+      "categorical_ratio": 0.6875,
+      "numeric_ratio": 0.3125,
+      "dimensions": [
+        "Date",
+        "Campaign_ID",
+        "Company",
+        "Campaign_Type",
+        "Target_Audience",
+        "Duration",
+        "Channel_Used",
+        "Acquisition_Cost",
+        "Location",
+        "Language",
+        "Customer_Segment"
+      ],
+      "measures": [
+        "Conversion_Rate",
+        "ROI",
+        "Clicks",
+        "Impressions",
+        "Engagement_Score"
+      ],
+      "datetime_cols": [],
+      "numeric_heavy": false,
+      "categorical_heavy": true,
+      "small_dataset": false,
+      "large_dataset": true,
+      "sequential_data": true,
+      "distribution_focus": true,
+      "has_performance_metrics": true,
+      "key_metrics": [
+        "Conversion_Rate",
+        "ROI",
+        "Clicks",
+        "Engagement_Score"
+      ]
+    },
+    "session_id": "2025-06-09 21:57:30.180952"
+  },
+  {
+    "timestamp": "2025-06-09T22:11:21.387793",
+    "event_type": "dataset_uploaded",
+    "details": {
+      "filename": "processed_data (2).csv",
+      "size": 779
+    },
+    "dataset_metadata": {
+      "num_rows": 779,
+      "num_cols": 19,
+      "num_numeric": 9,
+      "num_categorical": 10,
+      "num_datetime": 0,
+      "has_roi": true,
+      "has_time": true,
+      "has_performance": true,
+      "categorical_ratio": 0.5263157894736842,
+      "numeric_ratio": 0.47368421052631576,
+      "dimensions": [
+        "Date",
+        "Company",
+        "Campaign_Type",
+        "Target_Audience",
+        "Duration",
+        "Channel_Used",
+        "Acquisition_Cost",
+        "Location",
+        "Language",
+        "Customer_Segment"
+      ],
+      "measures": [
+        "Campaign_ID",
+        "Conversion_Rate",
+        "ROI",
+        "Clicks",
+        "Impressions",
+        "Engagement_Score",
+        "Acquisition_Cost_numeric",
+        "Campaign_ID_binned",
+        "ROI_binned"
+      ],
+      "datetime_cols": [],
+      "numeric_heavy": false,
+      "categorical_heavy": true,
+      "small_dataset": false,
+      "large_dataset": false,
+      "sequential_data": true,
+      "distribution_focus": true,
+      "has_performance_metrics": true,
+      "key_metrics": [
+        "Campaign_ID",
+        "Conversion_Rate",
+        "ROI",
+        "ROI_binned"
+      ]
+    },
+    "session_id": "2025-06-09 22:11:12.398636"
+  },
+  {
+    "timestamp": "2025-06-09T22:11:48.317079",
+    "event_type": "dataset_uploaded",
+    "details": {
+      "filename": "processed_data (2).csv",
+      "size": 779
+    },
+    "dataset_metadata": {
+      "num_rows": 779,
+      "num_cols": 19,
+      "num_numeric": 9,
+      "num_categorical": 10,
+      "num_datetime": 0,
+      "has_roi": true,
+      "has_time": true,
+      "has_performance": true,
+      "categorical_ratio": 0.5263157894736842,
+      "numeric_ratio": 0.47368421052631576,
+      "dimensions": [
+        "Date",
+        "Company",
+        "Campaign_Type",
+        "Target_Audience",
+        "Duration",
+        "Channel_Used",
+        "Acquisition_Cost",
+        "Location",
+        "Language",
+        "Customer_Segment"
+      ],
+      "measures": [
+        "Campaign_ID",
+        "Conversion_Rate",
+        "ROI",
+        "Clicks",
+        "Impressions",
+        "Engagement_Score",
+        "Acquisition_Cost_numeric",
+        "Campaign_ID_binned",
+        "ROI_binned"
+      ],
+      "datetime_cols": [],
+      "numeric_heavy": false,
+      "categorical_heavy": true,
+      "small_dataset": false,
+      "large_dataset": false,
+      "sequential_data": true,
+      "distribution_focus": true,
+      "has_performance_metrics": true,
+      "key_metrics": [
+        "Campaign_ID",
+        "Conversion_Rate",
+        "ROI",
+        "ROI_binned"
+      ]
+    },
+    "session_id": "2025-06-09 22:11:12.398636"
+  },
+  {
+    "timestamp": "2025-06-09T22:11:50.660461",
+    "event_type": "dataset_uploaded",
+    "details": {
+      "filename": "processed_data (2).csv",
+      "size": 779
+    },
+    "dataset_metadata": {
+      "num_rows": 779,
+      "num_cols": 19,
+      "num_numeric": 9,
+      "num_categorical": 10,
+      "num_datetime": 0,
+      "has_roi": true,
+      "has_time": true,
+      "has_performance": true,
+      "categorical_ratio": 0.5263157894736842,
+      "numeric_ratio": 0.47368421052631576,
+      "dimensions": [
+        "Date",
+        "Company",
+        "Campaign_Type",
+        "Target_Audience",
+        "Duration",
+        "Channel_Used",
+        "Acquisition_Cost",
+        "Location",
+        "Language",
+        "Customer_Segment"
+      ],
+      "measures": [
+        "Campaign_ID",
+        "Conversion_Rate",
+        "ROI",
+        "Clicks",
+        "Impressions",
+        "Engagement_Score",
+        "Acquisition_Cost_numeric",
+        "Campaign_ID_binned",
+        "ROI_binned"
+      ],
+      "datetime_cols": [],
+      "numeric_heavy": false,
+      "categorical_heavy": true,
+      "small_dataset": false,
+      "large_dataset": false,
+      "sequential_data": true,
+      "distribution_focus": true,
+      "has_performance_metrics": true,
+      "key_metrics": [
+        "Campaign_ID",
+        "Conversion_Rate",
+        "ROI",
+        "ROI_binned"
+      ]
+    },
+    "session_id": "2025-06-09 22:11:12.398636"
+  },
+  {
+    "timestamp": "2025-06-09T22:12:06.415370",
+    "event_type": "dataset_uploaded",
+    "details": {
+      "filename": "processed_data (2).csv",
+      "size": 779
+    },
+    "dataset_metadata": {
+      "num_rows": 779,
+      "num_cols": 19,
+      "num_numeric": 9,
+      "num_categorical": 10,
+      "num_datetime": 0,
+      "has_roi": true,
+      "has_time": true,
+      "has_performance": true,
+      "categorical_ratio": 0.5263157894736842,
+      "numeric_ratio": 0.47368421052631576,
+      "dimensions": [
+        "Date",
+        "Company",
+        "Campaign_Type",
+        "Target_Audience",
+        "Duration",
+        "Channel_Used",
+        "Acquisition_Cost",
+        "Location",
+        "Language",
+        "Customer_Segment"
+      ],
+      "measures": [
+        "Campaign_ID",
+        "Conversion_Rate",
+        "ROI",
+        "Clicks",
+        "Impressions",
+        "Engagement_Score",
+        "Acquisition_Cost_numeric",
+        "Campaign_ID_binned",
+        "ROI_binned"
+      ],
+      "datetime_cols": [],
+      "numeric_heavy": false,
+      "categorical_heavy": true,
+      "small_dataset": false,
+      "large_dataset": false,
+      "sequential_data": true,
+      "distribution_focus": true,
+      "has_performance_metrics": true,
+      "key_metrics": [
+        "Campaign_ID",
+        "Conversion_Rate",
+        "ROI",
+        "ROI_binned"
+      ]
+    },
+    "session_id": "2025-06-09 22:11:12.398636"
+  },
+  {
+    "timestamp": "2025-06-09T22:13:06.223996",
+    "event_type": "dataset_uploaded",
+    "details": {
+      "filename": "processed_data.csv",
+      "size": 200000
+    },
+    "dataset_metadata": {
+      "num_rows": 200000,
+      "num_cols": 16,
+      "num_numeric": 5,
+      "num_categorical": 11,
+      "num_datetime": 0,
+      "has_roi": true,
+      "has_time": true,
+      "has_performance": true,
+      "categorical_ratio": 0.6875,
+      "numeric_ratio": 0.3125,
+      "numeric_heavy": false,
+      "categorical_heavy": true,
+      "small_dataset": false,
+      "large_dataset": true,
+      "sequential_data": true,
+      "distribution_focus": true,
+      "has_performance_metrics": true
+    },
+    "session_id": "2025-06-09 22:12:47.205373"
+  },
+  {
+    "timestamp": "2025-06-09T22:13:18.133780",
+    "event_type": "dataset_uploaded",
+    "details": {
+      "filename": "processed_data.csv",
+      "size": 200000
+    },
+    "dataset_metadata": {
+      "num_rows": 200000,
+      "num_cols": 16,
+      "num_numeric": 5,
+      "num_categorical": 11,
+      "num_datetime": 0,
+      "has_roi": true,
+      "has_time": true,
+      "has_performance": true,
+      "categorical_ratio": 0.6875,
+      "numeric_ratio": 0.3125,
+      "numeric_heavy": false,
+      "categorical_heavy": true,
+      "small_dataset": false,
+      "large_dataset": true,
+      "sequential_data": true,
+      "distribution_focus": true,
+      "has_performance_metrics": true
+    },
+    "session_id": "2025-06-09 22:12:47.205373"
+  },
+  {
+    "timestamp": "2025-06-09T22:13:18.270362",
+    "event_type": "layout_applied",
+    "details": {
+      "layout_name": "ROI Optimization"
+    },
+    "dataset_metadata": {
+      "num_rows": 200000,
+      "num_cols": 16,
+      "num_numeric": 5,
+      "num_categorical": 11,
+      "num_datetime": 0,
+      "has_roi": true,
+      "has_time": true,
+      "has_performance": true,
+      "categorical_ratio": 0.6875,
+      "numeric_ratio": 0.3125,
+      "numeric_heavy": false,
+      "categorical_heavy": true,
+      "small_dataset": false,
+      "large_dataset": true,
+      "sequential_data": true,
+      "distribution_focus": true,
+      "has_performance_metrics": true
+    },
+    "session_id": "2025-06-09 22:12:47.205373"
+  },
+  {
+    "timestamp": "2025-06-09T22:13:27.399800",
+    "event_type": "dataset_uploaded",
+    "details": {
+      "filename": "processed_data.csv",
+      "size": 200000
+    },
+    "dataset_metadata": {
+      "num_rows": 200000,
+      "num_cols": 16,
+      "num_numeric": 5,
+      "num_categorical": 11,
+      "num_datetime": 0,
+      "has_roi": true,
+      "has_time": true,
+      "has_performance": true,
+      "categorical_ratio": 0.6875,
+      "numeric_ratio": 0.3125,
+      "numeric_heavy": false,
+      "categorical_heavy": true,
+      "small_dataset": false,
+      "large_dataset": true,
+      "sequential_data": true,
+      "distribution_focus": true,
+      "has_performance_metrics": true
+    },
+    "session_id": "2025-06-09 22:12:47.205373"
+  },
+  {
+    "timestamp": "2025-06-09T22:13:27.557028",
+    "event_type": "layout_applied",
+    "details": {
+      "layout_name": "ROI Optimization"
+    },
+    "dataset_metadata": {
+      "num_rows": 200000,
+      "num_cols": 16,
+      "num_numeric": 5,
+      "num_categorical": 11,
+      "num_datetime": 0,
+      "has_roi": true,
+      "has_time": true,
+      "has_performance": true,
+      "categorical_ratio": 0.6875,
+      "numeric_ratio": 0.3125,
+      "numeric_heavy": false,
+      "categorical_heavy": true,
+      "small_dataset": false,
+      "large_dataset": true,
+      "sequential_data": true,
+      "distribution_focus": true,
+      "has_performance_metrics": true
+    },
+    "session_id": "2025-06-09 22:12:47.205373"
+  },
+  {
+    "timestamp": "2025-06-09T22:13:30.389480",
+    "event_type": "dataset_uploaded",
+    "details": {
+      "filename": "processed_data.csv",
+      "size": 200000
+    },
+    "dataset_metadata": {
+      "num_rows": 200000,
+      "num_cols": 16,
+      "num_numeric": 5,
+      "num_categorical": 11,
+      "num_datetime": 0,
+      "has_roi": true,
+      "has_time": true,
+      "has_performance": true,
+      "categorical_ratio": 0.6875,
+      "numeric_ratio": 0.3125,
+      "numeric_heavy": false,
+      "categorical_heavy": true,
+      "small_dataset": false,
+      "large_dataset": true,
+      "sequential_data": true,
+      "distribution_focus": true,
+      "has_performance_metrics": true
+    },
+    "session_id": "2025-06-09 22:12:47.205373"
+  },
+  {
+    "timestamp": "2025-06-09T22:13:30.578295",
+    "event_type": "layout_applied",
+    "details": {
+      "layout_name": "Distribution Overview"
+    },
+    "dataset_metadata": {
+      "num_rows": 200000,
+      "num_cols": 16,
+      "num_numeric": 5,
+      "num_categorical": 11,
+      "num_datetime": 0,
+      "has_roi": true,
+      "has_time": true,
+      "has_performance": true,
+      "categorical_ratio": 0.6875,
+      "numeric_ratio": 0.3125,
+      "numeric_heavy": false,
+      "categorical_heavy": true,
+      "small_dataset": false,
+      "large_dataset": true,
+      "sequential_data": true,
+      "distribution_focus": true,
+      "has_performance_metrics": true
+    },
+    "session_id": "2025-06-09 22:12:47.205373"
+  },
+  {
+    "timestamp": "2025-06-09T22:13:31.121714",
+    "event_type": "extended_viewing",
+    "details": {
+      "layout_name": "Distribution Overview",
+      "duration_seconds": 12.732421
+    },
+    "dataset_metadata": {
+      "num_rows": 200000,
+      "num_cols": 16,
+      "num_numeric": 5,
+      "num_categorical": 11,
+      "num_datetime": 0,
+      "has_roi": true,
+      "has_time": true,
+      "has_performance": true,
+      "categorical_ratio": 0.6875,
+      "numeric_ratio": 0.3125,
+      "numeric_heavy": false,
+      "categorical_heavy": true,
+      "small_dataset": false,
+      "large_dataset": true,
+      "sequential_data": true,
+      "distribution_focus": true,
+      "has_performance_metrics": true
+    },
+    "session_id": "2025-06-09 22:12:47.205373"
+  },
+  {
+    "timestamp": "2025-06-09T22:13:43.823654",
+    "event_type": "dataset_uploaded",
+    "details": {
+      "filename": "processed_data.csv",
+      "size": 200000
+    },
+    "dataset_metadata": {
+      "num_rows": 200000,
+      "num_cols": 16,
+      "num_numeric": 5,
+      "num_categorical": 11,
+      "num_datetime": 0,
+      "has_roi": true,
+      "has_time": true,
+      "has_performance": true,
+      "categorical_ratio": 0.6875,
+      "numeric_ratio": 0.3125,
+      "numeric_heavy": false,
+      "categorical_heavy": true,
+      "small_dataset": false,
+      "large_dataset": true,
+      "sequential_data": true,
+      "distribution_focus": true,
+      "has_performance_metrics": true
+    },
+    "session_id": "2025-06-09 22:12:47.205373"
+  },
+  {
+    "timestamp": "2025-06-09T22:13:44.393163",
+    "event_type": "chart_clicked",
+    "details": {
+      "chart_name": "Box Plot: Conversion_Rate"
+    },
+    "dataset_metadata": {
+      "num_rows": 200000,
+      "num_cols": 16,
+      "num_numeric": 5,
+      "num_categorical": 11,
+      "num_datetime": 0,
+      "has_roi": true,
+      "has_time": true,
+      "has_performance": true,
+      "categorical_ratio": 0.6875,
+      "numeric_ratio": 0.3125,
+      "numeric_heavy": false,
+      "categorical_heavy": true,
+      "small_dataset": false,
+      "large_dataset": true,
+      "sequential_data": true,
+      "distribution_focus": true,
+      "has_performance_metrics": true
+    },
+    "session_id": "2025-06-09 22:12:47.205373"
+  },
+  {
+    "timestamp": "2025-06-09T22:13:55.664520",
+    "event_type": "dataset_uploaded",
+    "details": {
+      "filename": "processed_data.csv",
+      "size": 200000
+    },
+    "dataset_metadata": {
+      "num_rows": 200000,
+      "num_cols": 16,
+      "num_numeric": 5,
+      "num_categorical": 11,
+      "num_datetime": 0,
+      "has_roi": true,
+      "has_time": true,
+      "has_performance": true,
+      "categorical_ratio": 0.6875,
+      "numeric_ratio": 0.3125,
+      "numeric_heavy": false,
+      "categorical_heavy": true,
+      "small_dataset": false,
+      "large_dataset": true,
+      "sequential_data": true,
+      "distribution_focus": true,
+      "has_performance_metrics": true
+    },
+    "session_id": "2025-06-09 22:12:47.205373"
+  },
+  {
+    "timestamp": "2025-06-09T22:13:56.192332",
+    "event_type": "chart_clicked",
+    "details": {
+      "chart_name": "Box Plot: Conversion_Rate"
+    },
+    "dataset_metadata": {
+      "num_rows": 200000,
+      "num_cols": 16,
+      "num_numeric": 5,
+      "num_categorical": 11,
+      "num_datetime": 0,
+      "has_roi": true,
+      "has_time": true,
+      "has_performance": true,
+      "categorical_ratio": 0.6875,
+      "numeric_ratio": 0.3125,
+      "numeric_heavy": false,
+      "categorical_heavy": true,
+      "small_dataset": false,
+      "large_dataset": true,
+      "sequential_data": true,
+      "distribution_focus": true,
+      "has_performance_metrics": true
+    },
+    "session_id": "2025-06-09 22:12:47.205373"
+  },
+  {
+    "timestamp": "2025-06-09T22:14:18.454990",
+    "event_type": "dataset_uploaded",
+    "details": {
+      "filename": "processed_data.csv",
+      "size": 200000
+    },
+    "dataset_metadata": {
+      "num_rows": 200000,
+      "num_cols": 16,
+      "num_numeric": 5,
+      "num_categorical": 11,
+      "num_datetime": 0,
+      "has_roi": true,
+      "has_time": true,
+      "has_performance": true,
+      "categorical_ratio": 0.6875,
+      "numeric_ratio": 0.3125,
+      "numeric_heavy": false,
+      "categorical_heavy": true,
+      "small_dataset": false,
+      "large_dataset": true,
+      "sequential_data": true,
+      "distribution_focus": true,
+      "has_performance_metrics": true
+    },
+    "session_id": "2025-06-09 22:12:47.205373"
+  },
+  {
+    "timestamp": "2025-06-09T22:14:18.638595",
+    "event_type": "layout_previewed",
+    "details": {
+      "layout_name": "ROI Optimization"
+    },
+    "dataset_metadata": {
+      "num_rows": 200000,
+      "num_cols": 16,
+      "num_numeric": 5,
+      "num_categorical": 11,
+      "num_datetime": 0,
+      "has_roi": true,
+      "has_time": true,
+      "has_performance": true,
+      "categorical_ratio": 0.6875,
+      "numeric_ratio": 0.3125,
+      "numeric_heavy": false,
+      "categorical_heavy": true,
+      "small_dataset": false,
+      "large_dataset": true,
+      "sequential_data": true,
+      "distribution_focus": true,
+      "has_performance_metrics": true
+    },
+    "session_id": "2025-06-09 22:12:47.205373"
+  },
+  {
+    "timestamp": "2025-06-09T22:25:34.393699",
+    "event_type": "dataset_uploaded",
+    "details": {
+      "filename": "processed_data.csv",
+      "size": 200000
+    },
+    "dataset_metadata": {
+      "num_rows": 200000,
+      "num_cols": 16,
+      "num_numeric": 5,
+      "num_categorical": 11,
+      "num_datetime": 0,
+      "has_roi": true,
+      "has_time": true,
+      "has_performance": true,
+      "categorical_ratio": 0.6875,
+      "numeric_ratio": 0.3125,
+      "dimensions": [
+        "Date",
+        "Campaign_ID",
+        "Company",
+        "Campaign_Type",
+        "Target_Audience",
+        "Duration",
+        "Channel_Used",
+        "Acquisition_Cost",
+        "Location",
+        "Language",
+        "Customer_Segment"
+      ],
+      "measures": [
+        "Conversion_Rate",
+        "ROI",
+        "Clicks",
+        "Impressions",
+        "Engagement_Score"
+      ],
+      "datetime_cols": [],
+      "numeric_heavy": false,
+      "categorical_heavy": true,
+      "small_dataset": false,
+      "large_dataset": true,
+      "sequential_data": true,
+      "distribution_focus": true,
+      "has_performance_metrics": true,
+      "key_metrics": [
+        "Conversion_Rate",
+        "ROI",
+        "Clicks",
+        "Engagement_Score"
+      ]
+    },
+    "session_id": "2025-06-09 22:23:43.702783"
+  },
+  {
+    "timestamp": "2025-06-09T22:26:07.945197",
+    "event_type": "dataset_uploaded",
+    "details": {
+      "filename": "processed_data.csv",
+      "size": 200000
+    },
+    "dataset_metadata": {
+      "num_rows": 200000,
+      "num_cols": 16,
+      "num_numeric": 5,
+      "num_categorical": 11,
+      "num_datetime": 0,
+      "has_roi": true,
+      "has_time": true,
+      "has_performance": true,
+      "categorical_ratio": 0.6875,
+      "numeric_ratio": 0.3125,
+      "dimensions": [
+        "Date",
+        "Campaign_ID",
+        "Company",
+        "Campaign_Type",
+        "Target_Audience",
+        "Duration",
+        "Channel_Used",
+        "Acquisition_Cost",
+        "Location",
+        "Language",
+        "Customer_Segment"
+      ],
+      "measures": [
+        "Conversion_Rate",
+        "ROI",
+        "Clicks",
+        "Impressions",
+        "Engagement_Score"
+      ],
+      "datetime_cols": [],
+      "numeric_heavy": false,
+      "categorical_heavy": true,
+      "small_dataset": false,
+      "large_dataset": true,
+      "sequential_data": true,
+      "distribution_focus": true,
+      "has_performance_metrics": true,
+      "key_metrics": [
+        "Conversion_Rate",
+        "ROI",
+        "Clicks",
+        "Engagement_Score"
+      ]
+    },
+    "session_id": "2025-06-09 22:23:43.702783"
+  },
+  {
+    "timestamp": "2025-06-09T22:26:11.448909",
+    "event_type": "dataset_uploaded",
+    "details": {
+      "filename": "processed_data.csv",
+      "size": 200000
+    },
+    "dataset_metadata": {
+      "num_rows": 200000,
+      "num_cols": 16,
+      "num_numeric": 5,
+      "num_categorical": 11,
+      "num_datetime": 0,
+      "has_roi": true,
+      "has_time": true,
+      "has_performance": true,
+      "categorical_ratio": 0.6875,
+      "numeric_ratio": 0.3125,
+      "dimensions": [
+        "Date",
+        "Campaign_ID",
+        "Company",
+        "Campaign_Type",
+        "Target_Audience",
+        "Duration",
+        "Channel_Used",
+        "Acquisition_Cost",
+        "Location",
+        "Language",
+        "Customer_Segment"
+      ],
+      "measures": [
+        "Conversion_Rate",
+        "ROI",
+        "Clicks",
+        "Impressions",
+        "Engagement_Score"
+      ],
+      "datetime_cols": [],
+      "numeric_heavy": false,
+      "categorical_heavy": true,
+      "small_dataset": false,
+      "large_dataset": true,
+      "sequential_data": true,
+      "distribution_focus": true,
+      "has_performance_metrics": true,
+      "key_metrics": [
+        "Conversion_Rate",
+        "ROI",
+        "Clicks",
+        "Engagement_Score"
+      ]
+    },
+    "session_id": "2025-06-09 22:23:43.702783"
+  },
+  {
+    "timestamp": "2025-06-10T10:56:48.692183",
+    "event_type": "dataset_uploaded",
+    "details": {
+      "filename": "processed_data (2).csv",
+      "size": 779
+    },
+    "dataset_metadata": {
+      "num_rows": 779,
+      "num_cols": 19,
+      "num_numeric": 9,
+      "num_categorical": 10,
+      "num_datetime": 0,
+      "has_roi": true,
+      "has_time": true,
+      "has_performance": true,
+      "categorical_ratio": 0.5263157894736842,
+      "numeric_ratio": 0.47368421052631576,
+      "dimensions": [
+        "Date",
+        "Company",
+        "Campaign_Type",
+        "Target_Audience",
+        "Duration",
+        "Channel_Used",
+        "Acquisition_Cost",
+        "Location",
+        "Language",
+        "Customer_Segment"
+      ],
+      "measures": [
+        "Campaign_ID",
+        "Conversion_Rate",
+        "ROI",
+        "Clicks",
+        "Impressions",
+        "Engagement_Score",
+        "Acquisition_Cost_numeric",
+        "Campaign_ID_binned",
+        "ROI_binned"
+      ],
+      "datetime_cols": [],
+      "numeric_heavy": false,
+      "categorical_heavy": true,
+      "small_dataset": false,
+      "large_dataset": false,
+      "sequential_data": true,
+      "distribution_focus": true,
+      "has_performance_metrics": true,
+      "key_metrics": [
+        "Campaign_ID",
+        "Conversion_Rate",
+        "ROI",
+        "ROI_binned"
+      ]
+    },
+    "session_id": "2025-06-10 10:56:35.214271"
+  },
+  {
+    "timestamp": "2025-06-10T10:57:13.998755",
+    "event_type": "dataset_uploaded",
+    "details": {
+      "filename": "marketing_campaign_dataset.csv",
+      "size": 200000
+    },
+    "dataset_metadata": {
+      "num_rows": 200000,
+      "num_cols": 17,
+      "num_numeric": 7,
+      "num_categorical": 10,
+      "num_datetime": 0,
+      "has_roi": true,
+      "has_time": true,
+      "has_performance": true,
+      "categorical_ratio": 0.5882352941176471,
+      "numeric_ratio": 0.4117647058823529,
+      "dimensions": [
+        "Date",
+        "Company",
+        "Campaign_Type",
+        "Target_Audience",
+        "Duration",
+        "Channel_Used",
+        "Acquisition_Cost",
+        "Location",
+        "Language",
+        "Customer_Segment"
+      ],
+      "measures": [
+        "Campaign_ID",
+        "Conversion_Rate",
+        "ROI",
+        "Clicks",
+        "Impressions",
+        "Engagement_Score",
+        "Unnamed: 16"
+      ],
+      "datetime_cols": [],
+      "numeric_heavy": false,
+      "categorical_heavy": true,
+      "small_dataset": false,
+      "large_dataset": true,
+      "sequential_data": true,
+      "distribution_focus": true,
+      "has_performance_metrics": true,
+      "key_metrics": [
+        "Campaign_ID",
+        "Conversion_Rate",
+        "ROI"
+      ]
+    },
+    "session_id": "2025-06-10 10:56:35.214271"
+  },
+  {
+    "timestamp": "2025-06-10T10:57:40.265614",
+    "event_type": "dataset_uploaded",
+    "details": {
+      "filename": "marketing_campaign_dataset.csv",
+      "size": 200000
+    },
+    "dataset_metadata": {
+      "num_rows": 200000,
+      "num_cols": 17,
+      "num_numeric": 7,
+      "num_categorical": 10,
+      "num_datetime": 0,
+      "has_roi": true,
+      "has_time": true,
+      "has_performance": true,
+      "categorical_ratio": 0.5882352941176471,
+      "numeric_ratio": 0.4117647058823529,
+      "dimensions": [
+        "Date",
+        "Company",
+        "Campaign_Type",
+        "Target_Audience",
+        "Duration",
+        "Channel_Used",
+        "Acquisition_Cost",
+        "Location",
+        "Language",
+        "Customer_Segment"
+      ],
+      "measures": [
+        "Campaign_ID",
+        "Conversion_Rate",
+        "ROI",
+        "Clicks",
+        "Impressions",
+        "Engagement_Score",
+        "Unnamed: 16"
+      ],
+      "datetime_cols": [],
+      "numeric_heavy": false,
+      "categorical_heavy": true,
+      "small_dataset": false,
+      "large_dataset": true,
+      "sequential_data": true,
+      "distribution_focus": true,
+      "has_performance_metrics": true,
+      "key_metrics": [
+        "Campaign_ID",
+        "Conversion_Rate",
+        "ROI"
+      ]
+    },
+    "session_id": "2025-06-10 10:56:35.214271"
+  },
+  {
+    "timestamp": "2025-06-10T10:57:40.364741",
+    "event_type": "layout_applied",
+    "details": {
+      "layout_name": "ROI Optimization"
+    },
+    "dataset_metadata": {
+      "num_rows": 200000,
+      "num_cols": 17,
+      "num_numeric": 7,
+      "num_categorical": 10,
+      "num_datetime": 0,
+      "has_roi": true,
+      "has_time": true,
+      "has_performance": true,
+      "categorical_ratio": 0.5882352941176471,
+      "numeric_ratio": 0.4117647058823529,
+      "dimensions": [
+        "Date",
+        "Company",
+        "Campaign_Type",
+        "Target_Audience",
+        "Duration",
+        "Channel_Used",
+        "Acquisition_Cost",
+        "Location",
+        "Language",
+        "Customer_Segment"
+      ],
+      "measures": [
+        "Campaign_ID",
+        "Conversion_Rate",
+        "ROI",
+        "Clicks",
+        "Impressions",
+        "Engagement_Score",
+        "Unnamed: 16"
+      ],
+      "datetime_cols": [],
+      "numeric_heavy": false,
+      "categorical_heavy": true,
+      "small_dataset": false,
+      "large_dataset": true,
+      "sequential_data": true,
+      "distribution_focus": true,
+      "has_performance_metrics": true,
+      "key_metrics": [
+        "Campaign_ID",
+        "Conversion_Rate",
+        "ROI"
+      ]
+    },
+    "session_id": "2025-06-10 10:56:35.214271"
+  },
+  {
+    "timestamp": "2025-06-10T11:07:18.768531",
+    "event_type": "dataset_uploaded",
+    "details": {
+      "filename": "marketing_campaign_dataset.csv",
+      "size": 200000
+    },
+    "dataset_metadata": {
+      "num_rows": 200000,
+      "num_cols": 17,
+      "num_numeric": 7,
+      "num_categorical": 10,
+      "num_datetime": 0,
+      "has_roi": true,
+      "has_time": true,
+      "has_performance": true,
+      "categorical_ratio": 0.5882352941176471,
+      "numeric_ratio": 0.4117647058823529,
+      "numeric_heavy": false,
+      "categorical_heavy": true,
+      "small_dataset": false,
+      "large_dataset": true,
+      "sequential_data": true,
+      "distribution_focus": true,
+      "has_performance_metrics": true
+    },
+    "session_id": "2025-06-10 11:06:58.965703"
+  },
+  {
+    "timestamp": "2025-06-10T11:07:40.627962",
+    "event_type": "preference_updated",
+    "details": {
+      "trends": 5,
+      "comparisons": 7
+    },
+    "dataset_metadata": {},
+    "session_id": "2025-06-10 11:06:58.965703"
+  },
+  {
+    "timestamp": "2025-06-10T11:07:41.183038",
+    "event_type": "dataset_uploaded",
+    "details": {
+      "filename": "marketing_campaign_dataset.csv",
+      "size": 200000
+    },
+    "dataset_metadata": {
+      "num_rows": 200000,
+      "num_cols": 17,
+      "num_numeric": 7,
+      "num_categorical": 10,
+      "num_datetime": 0,
+      "has_roi": true,
+      "has_time": true,
+      "has_performance": true,
+      "categorical_ratio": 0.5882352941176471,
+      "numeric_ratio": 0.4117647058823529,
+      "numeric_heavy": false,
+      "categorical_heavy": true,
+      "small_dataset": false,
+      "large_dataset": true,
+      "sequential_data": true,
+      "distribution_focus": true,
+      "has_performance_metrics": true
+    },
+    "session_id": "2025-06-10 11:06:58.965703"
+  },
+  {
+    "timestamp": "2025-06-10T11:07:51.769007",
+    "event_type": "dataset_uploaded",
+    "details": {
+      "filename": "marketing_campaign_dataset.csv",
+      "size": 200000
+    },
+    "dataset_metadata": {
+      "num_rows": 200000,
+      "num_cols": 17,
+      "num_numeric": 7,
+      "num_categorical": 10,
+      "num_datetime": 0,
+      "has_roi": true,
+      "has_time": true,
+      "has_performance": true,
+      "categorical_ratio": 0.5882352941176471,
+      "numeric_ratio": 0.4117647058823529,
+      "numeric_heavy": false,
+      "categorical_heavy": true,
+      "small_dataset": false,
+      "large_dataset": true,
+      "sequential_data": true,
+      "distribution_focus": true,
+      "has_performance_metrics": true
+    },
+    "session_id": "2025-06-10 11:06:58.965703"
+  },
+  {
+    "timestamp": "2025-06-10T11:07:51.851884",
+    "event_type": "layout_previewed",
+    "details": {
+      "layout_name": "ROI Optimization"
+    },
+    "dataset_metadata": {
+      "num_rows": 200000,
+      "num_cols": 17,
+      "num_numeric": 7,
+      "num_categorical": 10,
+      "num_datetime": 0,
+      "has_roi": true,
+      "has_time": true,
+      "has_performance": true,
+      "categorical_ratio": 0.5882352941176471,
+      "numeric_ratio": 0.4117647058823529,
+      "numeric_heavy": false,
+      "categorical_heavy": true,
+      "small_dataset": false,
+      "large_dataset": true,
+      "sequential_data": true,
+      "distribution_focus": true,
+      "has_performance_metrics": true
+    },
+    "session_id": "2025-06-10 11:06:58.965703"
+  },
+  {
+    "timestamp": "2025-06-10T11:08:00.280298",
+    "event_type": "dataset_uploaded",
+    "details": {
+      "filename": "marketing_campaign_dataset.csv",
+      "size": 200000
+    },
+    "dataset_metadata": {
+      "num_rows": 200000,
+      "num_cols": 17,
+      "num_numeric": 7,
+      "num_categorical": 10,
+      "num_datetime": 0,
+      "has_roi": true,
+      "has_time": true,
+      "has_performance": true,
+      "categorical_ratio": 0.5882352941176471,
+      "numeric_ratio": 0.4117647058823529,
+      "numeric_heavy": false,
+      "categorical_heavy": true,
+      "small_dataset": false,
+      "large_dataset": true,
+      "sequential_data": true,
+      "distribution_focus": true,
+      "has_performance_metrics": true
+    },
+    "session_id": "2025-06-10 11:06:58.965703"
+  },
+  {
+    "timestamp": "2025-06-10T11:08:00.370166",
+    "event_type": "layout_applied",
+    "details": {
+      "layout_name": "ROI Optimization"
+    },
+    "dataset_metadata": {
+      "num_rows": 200000,
+      "num_cols": 17,
+      "num_numeric": 7,
+      "num_categorical": 10,
+      "num_datetime": 0,
+      "has_roi": true,
+      "has_time": true,
+      "has_performance": true,
+      "categorical_ratio": 0.5882352941176471,
+      "numeric_ratio": 0.4117647058823529,
+      "numeric_heavy": false,
+      "categorical_heavy": true,
+      "small_dataset": false,
+      "large_dataset": true,
+      "sequential_data": true,
+      "distribution_focus": true,
+      "has_performance_metrics": true
+    },
+    "session_id": "2025-06-10 11:06:58.965703"
+  },
+  {
+    "timestamp": "2025-06-10T11:08:09.809893",
+    "event_type": "dataset_uploaded",
+    "details": {
+      "filename": "marketing_campaign_dataset.csv",
+      "size": 200000
+    },
+    "dataset_metadata": {
+      "num_rows": 200000,
+      "num_cols": 17,
+      "num_numeric": 7,
+      "num_categorical": 10,
+      "num_datetime": 0,
+      "has_roi": true,
+      "has_time": true,
+      "has_performance": true,
+      "categorical_ratio": 0.5882352941176471,
+      "numeric_ratio": 0.4117647058823529,
+      "numeric_heavy": false,
+      "categorical_heavy": true,
+      "small_dataset": false,
+      "large_dataset": true,
+      "sequential_data": true,
+      "distribution_focus": true,
+      "has_performance_metrics": true
+    },
+    "session_id": "2025-06-10 11:06:58.965703"
+  },
+  {
+    "timestamp": "2025-06-10T11:08:10.078097",
+    "event_type": "chart_clicked",
+    "details": {
+      "chart_name": "Histogram: Distribution"
+    },
+    "dataset_metadata": {
+      "num_rows": 200000,
+      "num_cols": 17,
+      "num_numeric": 7,
+      "num_categorical": 10,
+      "num_datetime": 0,
+      "has_roi": true,
+      "has_time": true,
+      "has_performance": true,
+      "categorical_ratio": 0.5882352941176471,
+      "numeric_ratio": 0.4117647058823529,
+      "numeric_heavy": false,
+      "categorical_heavy": true,
+      "small_dataset": false,
+      "large_dataset": true,
+      "sequential_data": true,
+      "distribution_focus": true,
+      "has_performance_metrics": true
+    },
+    "session_id": "2025-06-10 11:06:58.965703"
+  },
+  {
+    "timestamp": "2025-06-10T11:08:15.900088",
+    "event_type": "dataset_uploaded",
+    "details": {
+      "filename": "marketing_campaign_dataset.csv",
+      "size": 200000
+    },
+    "dataset_metadata": {
+      "num_rows": 200000,
+      "num_cols": 17,
+      "num_numeric": 7,
+      "num_categorical": 10,
+      "num_datetime": 0,
+      "has_roi": true,
+      "has_time": true,
+      "has_performance": true,
+      "categorical_ratio": 0.5882352941176471,
+      "numeric_ratio": 0.4117647058823529,
+      "numeric_heavy": false,
+      "categorical_heavy": true,
+      "small_dataset": false,
+      "large_dataset": true,
+      "sequential_data": true,
+      "distribution_focus": true,
+      "has_performance_metrics": true
+    },
+    "session_id": "2025-06-10 11:06:58.965703"
+  },
+  {
+    "timestamp": "2025-06-10T11:08:16.071964",
+    "event_type": "chart_clicked",
+    "details": {
+      "chart_name": "Line Chart: Trends"
+    },
+    "dataset_metadata": {
+      "num_rows": 200000,
+      "num_cols": 17,
+      "num_numeric": 7,
+      "num_categorical": 10,
+      "num_datetime": 0,
+      "has_roi": true,
+      "has_time": true,
+      "has_performance": true,
+      "categorical_ratio": 0.5882352941176471,
+      "numeric_ratio": 0.4117647058823529,
+      "numeric_heavy": false,
+      "categorical_heavy": true,
+      "small_dataset": false,
+      "large_dataset": true,
+      "sequential_data": true,
+      "distribution_focus": true,
+      "has_performance_metrics": true
+    },
+    "session_id": "2025-06-10 11:06:58.965703"
+  },
+  {
+    "timestamp": "2025-06-10T11:21:43.523093",
+    "event_type": "dataset_uploaded",
+    "details": {
+      "filename": "Filtered_Campaign_Data.csv",
+      "size": 0
+    },
+    "dataset_metadata": {},
+    "session_id": "2025-06-10 11:21:35.296921"
+  },
+  {
+    "timestamp": "2025-06-10T11:21:55.543878",
+    "event_type": "dataset_uploaded",
+    "details": {
+      "filename": "marketing_campaign_dataset.csv",
+      "size": 200000
+    },
+    "dataset_metadata": {
+      "num_rows": 200000,
+      "num_cols": 17,
+      "num_numeric": 7,
+      "num_categorical": 10,
+      "num_datetime": 0,
+      "has_roi": true,
+      "has_time": true,
+      "has_performance": true,
+      "categorical_ratio": 0.5882352941176471,
+      "numeric_ratio": 0.4117647058823529,
+      "numeric_heavy": false,
+      "categorical_heavy": true,
+      "small_dataset": false,
+      "large_dataset": true,
+      "sequential_data": true,
+      "distribution_focus": true,
+      "has_performance_metrics": true
+    },
+    "session_id": "2025-06-10 11:21:35.296921"
+  },
+  {
+    "timestamp": "2025-06-10T11:22:31.710449",
+    "event_type": "dataset_uploaded",
+    "details": {
+      "filename": "marketing_campaign_dataset.csv",
+      "size": 200000
+    },
+    "dataset_metadata": {
+      "num_rows": 200000,
+      "num_cols": 17,
+      "num_numeric": 7,
+      "num_categorical": 10,
+      "num_datetime": 0,
+      "has_roi": true,
+      "has_time": true,
+      "has_performance": true,
+      "categorical_ratio": 0.5882352941176471,
+      "numeric_ratio": 0.4117647058823529,
+      "dimensions": [
+        "Date",
+        "Company",
+        "Campaign_Type",
+        "Target_Audience",
+        "Duration",
+        "Channel_Used",
+        "Acquisition_Cost",
+        "Location",
+        "Language",
+        "Customer_Segment"
+      ],
+      "measures": [
+        "Campaign_ID",
+        "Conversion_Rate",
+        "ROI",
+        "Clicks",
+        "Impressions",
+        "Engagement_Score",
+        "Unnamed: 16"
+      ],
+      "datetime_cols": [],
+      "numeric_heavy": false,
+      "categorical_heavy": true,
+      "small_dataset": false,
+      "large_dataset": true,
+      "sequential_data": true,
+      "distribution_focus": true,
+      "has_performance_metrics": true,
+      "key_metrics": [
+        "Campaign_ID",
+        "Conversion_Rate",
+        "ROI"
+      ]
+    },
+    "session_id": "2025-06-10 11:22:21.210245"
+  },
+  {
+    "timestamp": "2025-06-10T11:34:01.545305",
+    "event_type": "dataset_uploaded",
+    "details": {
+      "filename": "marketing_campaign_dataset.csv",
+      "size": 200000
+    },
+    "dataset_metadata": {
+      "num_rows": 200000,
+      "num_cols": 17,
+      "num_numeric": 7,
+      "num_categorical": 10,
+      "num_datetime": 0,
+      "has_roi": true,
+      "has_time": true,
+      "has_performance": true,
+      "categorical_ratio": 0.5882352941176471,
+      "numeric_ratio": 0.4117647058823529,
+      "dimensions": [
+        "Date",
+        "Company",
+        "Campaign_Type",
+        "Target_Audience",
+        "Duration",
+        "Channel_Used",
+        "Acquisition_Cost",
+        "Location",
+        "Language",
+        "Customer_Segment"
+      ],
+      "measures": [
+        "Campaign_ID",
+        "Conversion_Rate",
+        "ROI",
+        "Clicks",
+        "Impressions",
+        "Engagement_Score",
+        "Unnamed: 16"
+      ],
+      "datetime_cols": [],
+      "numeric_heavy": false,
+      "categorical_heavy": true,
+      "small_dataset": false,
+      "large_dataset": true,
+      "sequential_data": true,
+      "distribution_focus": true,
+      "has_performance_metrics": true,
+      "key_metrics": [
+        "Campaign_ID",
+        "Conversion_Rate",
+        "ROI"
+      ]
+    },
+    "session_id": "2025-06-10 11:33:53.672231"
+  },
+  {
+    "timestamp": "2025-06-10T11:35:57.890501",
+    "event_type": "dataset_uploaded",
+    "details": {
+      "filename": "marketing_campaign_dataset.csv",
+      "size": 200000
+    },
+    "dataset_metadata": {
+      "num_rows": 200000,
+      "num_cols": 17,
+      "num_numeric": 7,
+      "num_categorical": 10,
+      "num_datetime": 0,
+      "has_roi": true,
+      "has_time": true,
+      "has_performance": true,
+      "categorical_ratio": 0.5882352941176471,
+      "numeric_ratio": 0.4117647058823529,
+      "dimensions": [
+        "Date",
+        "Company",
+        "Campaign_Type",
+        "Target_Audience",
+        "Duration",
+        "Channel_Used",
+        "Acquisition_Cost",
+        "Location",
+        "Language",
+        "Customer_Segment"
+      ],
+      "measures": [
+        "Campaign_ID",
+        "Conversion_Rate",
+        "ROI",
+        "Clicks",
+        "Impressions",
+        "Engagement_Score",
+        "Unnamed: 16"
+      ],
+      "datetime_cols": [],
+      "numeric_heavy": false,
+      "categorical_heavy": true,
+      "small_dataset": false,
+      "large_dataset": true,
+      "sequential_data": true,
+      "distribution_focus": true,
+      "has_performance_metrics": true,
+      "key_metrics": [
+        "Campaign_ID",
+        "Conversion_Rate",
+        "ROI"
+      ]
+    },
+    "session_id": "2025-06-10 11:35:48.758509"
+  },
+  {
+    "timestamp": "2025-06-10T11:36:19.610798",
+    "event_type": "dataset_uploaded",
+    "details": {
+      "filename": "marketing_campaign_dataset.csv",
+      "size": 200000
+    },
+    "dataset_metadata": {
+      "num_rows": 200000,
+      "num_cols": 17,
+      "num_numeric": 7,
+      "num_categorical": 10,
+      "num_datetime": 0,
+      "has_roi": true,
+      "has_time": true,
+      "has_performance": true,
+      "categorical_ratio": 0.5882352941176471,
+      "numeric_ratio": 0.4117647058823529,
+      "dimensions": [
+        "Date",
+        "Company",
+        "Campaign_Type",
+        "Target_Audience",
+        "Duration",
+        "Channel_Used",
+        "Acquisition_Cost",
+        "Location",
+        "Language",
+        "Customer_Segment"
+      ],
+      "measures": [
+        "Campaign_ID",
+        "Conversion_Rate",
+        "ROI",
+        "Clicks",
+        "Impressions",
+        "Engagement_Score",
+        "Unnamed: 16"
+      ],
+      "datetime_cols": [],
+      "numeric_heavy": false,
+      "categorical_heavy": true,
+      "small_dataset": false,
+      "large_dataset": true,
+      "sequential_data": true,
+      "distribution_focus": true,
+      "has_performance_metrics": true,
+      "key_metrics": [
+        "Campaign_ID",
+        "Conversion_Rate",
+        "ROI"
+      ]
+    },
+    "session_id": "2025-06-10 11:35:48.758509"
+  },
+  {
+    "timestamp": "2025-06-10T11:36:19.721059",
+    "event_type": "layout_applied",
+    "details": {
+      "layout_name": "ROI Optimization"
+    },
+    "dataset_metadata": {
+      "num_rows": 200000,
+      "num_cols": 17,
+      "num_numeric": 7,
+      "num_categorical": 10,
+      "num_datetime": 0,
+      "has_roi": true,
+      "has_time": true,
+      "has_performance": true,
+      "categorical_ratio": 0.5882352941176471,
+      "numeric_ratio": 0.4117647058823529,
+      "dimensions": [
+        "Date",
+        "Company",
+        "Campaign_Type",
+        "Target_Audience",
+        "Duration",
+        "Channel_Used",
+        "Acquisition_Cost",
+        "Location",
+        "Language",
+        "Customer_Segment"
+      ],
+      "measures": [
+        "Campaign_ID",
+        "Conversion_Rate",
+        "ROI",
+        "Clicks",
+        "Impressions",
+        "Engagement_Score",
+        "Unnamed: 16"
+      ],
+      "datetime_cols": [],
+      "numeric_heavy": false,
+      "categorical_heavy": true,
+      "small_dataset": false,
+      "large_dataset": true,
+      "sequential_data": true,
+      "distribution_focus": true,
+      "has_performance_metrics": true,
+      "key_metrics": [
+        "Campaign_ID",
+        "Conversion_Rate",
+        "ROI"
+      ]
+    },
+    "session_id": "2025-06-10 11:35:48.758509"
+  },
+  {
+    "timestamp": "2025-06-10T11:36:51.898386",
+    "event_type": "dataset_uploaded",
+    "details": {
+      "filename": "marketing_campaign_dataset.csv",
+      "size": 200000
+    },
+    "dataset_metadata": {
+      "num_rows": 200000,
+      "num_cols": 17,
+      "num_numeric": 7,
+      "num_categorical": 10,
+      "num_datetime": 0,
+      "has_roi": true,
+      "has_time": true,
+      "has_performance": true,
+      "categorical_ratio": 0.5882352941176471,
+      "numeric_ratio": 0.4117647058823529,
+      "dimensions": [
+        "Date",
+        "Company",
+        "Campaign_Type",
+        "Target_Audience",
+        "Duration",
+        "Channel_Used",
+        "Acquisition_Cost",
+        "Location",
+        "Language",
+        "Customer_Segment"
+      ],
+      "measures": [
+        "Campaign_ID",
+        "Conversion_Rate",
+        "ROI",
+        "Clicks",
+        "Impressions",
+        "Engagement_Score",
+        "Unnamed: 16"
+      ],
+      "datetime_cols": [],
+      "numeric_heavy": false,
+      "categorical_heavy": true,
+      "small_dataset": false,
+      "large_dataset": true,
+      "sequential_data": true,
+      "distribution_focus": true,
+      "has_performance_metrics": true,
+      "key_metrics": [
+        "Campaign_ID",
+        "Conversion_Rate",
+        "ROI"
+      ]
+    },
+    "session_id": "2025-06-10 11:35:48.758509"
+  },
+  {
+    "timestamp": "2025-06-10T11:36:56.474055",
+    "event_type": "dataset_uploaded",
+    "details": {
+      "filename": "marketing_campaign_dataset.csv",
+      "size": 200000
+    },
+    "dataset_metadata": {
+      "num_rows": 200000,
+      "num_cols": 17,
+      "num_numeric": 7,
+      "num_categorical": 10,
+      "num_datetime": 0,
+      "has_roi": true,
+      "has_time": true,
+      "has_performance": true,
+      "categorical_ratio": 0.5882352941176471,
+      "numeric_ratio": 0.4117647058823529,
+      "dimensions": [
+        "Date",
+        "Company",
+        "Campaign_Type",
+        "Target_Audience",
+        "Duration",
+        "Channel_Used",
+        "Acquisition_Cost",
+        "Location",
+        "Language",
+        "Customer_Segment"
+      ],
+      "measures": [
+        "Campaign_ID",
+        "Conversion_Rate",
+        "ROI",
+        "Clicks",
+        "Impressions",
+        "Engagement_Score",
+        "Unnamed: 16"
+      ],
+      "datetime_cols": [],
+      "numeric_heavy": false,
+      "categorical_heavy": true,
+      "small_dataset": false,
+      "large_dataset": true,
+      "sequential_data": true,
+      "distribution_focus": true,
+      "has_performance_metrics": true,
+      "key_metrics": [
+        "Campaign_ID",
+        "Conversion_Rate",
+        "ROI"
+      ]
+    },
+    "session_id": "2025-06-10 11:35:48.758509"
+  },
+  {
+    "timestamp": "2025-06-10T11:37:10.992227",
+    "event_type": "dataset_uploaded",
+    "details": {
+      "filename": "marketing_campaign_dataset.csv",
+      "size": 200000
+    },
+    "dataset_metadata": {
+      "num_rows": 200000,
+      "num_cols": 17,
+      "num_numeric": 7,
+      "num_categorical": 10,
+      "num_datetime": 0,
+      "has_roi": true,
+      "has_time": true,
+      "has_performance": true,
+      "categorical_ratio": 0.5882352941176471,
+      "numeric_ratio": 0.4117647058823529,
+      "dimensions": [
+        "Date",
+        "Company",
+        "Campaign_Type",
+        "Target_Audience",
+        "Duration",
+        "Channel_Used",
+        "Acquisition_Cost",
+        "Location",
+        "Language",
+        "Customer_Segment"
+      ],
+      "measures": [
+        "Campaign_ID",
+        "Conversion_Rate",
+        "ROI",
+        "Clicks",
+        "Impressions",
+        "Engagement_Score",
+        "Unnamed: 16"
+      ],
+      "datetime_cols": [],
+      "numeric_heavy": false,
+      "categorical_heavy": true,
+      "small_dataset": false,
+      "large_dataset": true,
+      "sequential_data": true,
+      "distribution_focus": true,
+      "has_performance_metrics": true,
+      "key_metrics": [
+        "Campaign_ID",
+        "Conversion_Rate",
+        "ROI"
+      ]
+    },
+    "session_id": "2025-06-10 11:35:48.758509"
+  },
+  {
+    "timestamp": "2025-06-10T11:37:13.667660",
+    "event_type": "dataset_uploaded",
+    "details": {
+      "filename": "marketing_campaign_dataset.csv",
+      "size": 200000
+    },
+    "dataset_metadata": {
+      "num_rows": 200000,
+      "num_cols": 17,
+      "num_numeric": 7,
+      "num_categorical": 10,
+      "num_datetime": 0,
+      "has_roi": true,
+      "has_time": true,
+      "has_performance": true,
+      "categorical_ratio": 0.5882352941176471,
+      "numeric_ratio": 0.4117647058823529,
+      "dimensions": [
+        "Date",
+        "Company",
+        "Campaign_Type",
+        "Target_Audience",
+        "Duration",
+        "Channel_Used",
+        "Acquisition_Cost",
+        "Location",
+        "Language",
+        "Customer_Segment"
+      ],
+      "measures": [
+        "Campaign_ID",
+        "Conversion_Rate",
+        "ROI",
+        "Clicks",
+        "Impressions",
+        "Engagement_Score",
+        "Unnamed: 16"
+      ],
+      "datetime_cols": [],
+      "numeric_heavy": false,
+      "categorical_heavy": true,
+      "small_dataset": false,
+      "large_dataset": true,
+      "sequential_data": true,
+      "distribution_focus": true,
+      "has_performance_metrics": true,
+      "key_metrics": [
+        "Campaign_ID",
+        "Conversion_Rate",
+        "ROI"
+      ]
+    },
+    "session_id": "2025-06-10 11:35:48.758509"
+  },
+  {
+    "timestamp": "2025-06-10T11:40:20.044189",
+    "event_type": "preference_updated",
+    "details": {
+      "trends": 7,
+      "comparisons": 5
+    },
+    "dataset_metadata": {},
+    "session_id": "2025-06-10 11:40:11.779282"
+  },
+  {
+    "timestamp": "2025-06-10T11:40:28.803439",
+    "event_type": "dataset_uploaded",
+    "details": {
+      "filename": "marketing_campaign_dataset.csv",
+      "size": 200000
+    },
+    "dataset_metadata": {
+      "num_rows": 200000,
+      "num_cols": 17,
+      "num_numeric": 7,
+      "num_categorical": 10,
+      "num_datetime": 0,
+      "has_roi": true,
+      "has_time": true,
+      "has_performance": true,
+      "categorical_ratio": 0.5882352941176471,
+      "numeric_ratio": 0.4117647058823529,
+      "dimensions": [
+        "Date",
+        "Company",
+        "Campaign_Type",
+        "Target_Audience",
+        "Duration",
+        "Channel_Used",
+        "Acquisition_Cost",
+        "Location",
+        "Language",
+        "Customer_Segment"
+      ],
+      "measures": [
+        "Campaign_ID",
+        "Conversion_Rate",
+        "ROI",
+        "Clicks",
+        "Impressions",
+        "Engagement_Score",
+        "Unnamed: 16"
+      ],
+      "datetime_cols": [],
+      "numeric_heavy": false,
+      "categorical_heavy": true,
+      "small_dataset": false,
+      "large_dataset": true,
+      "sequential_data": true,
+      "distribution_focus": true,
+      "has_performance_metrics": true,
+      "key_metrics": [
+        "Campaign_ID",
+        "Conversion_Rate",
+        "ROI"
+      ]
+    },
+    "session_id": "2025-06-10 11:40:11.779282"
+  },
+  {
+    "timestamp": "2025-06-10T11:40:43.418679",
+    "event_type": "dataset_uploaded",
+    "details": {
+      "filename": "marketing_campaign_dataset.csv",
+      "size": 200000
+    },
+    "dataset_metadata": {
+      "num_rows": 200000,
+      "num_cols": 17,
+      "num_numeric": 7,
+      "num_categorical": 10,
+      "num_datetime": 0,
+      "has_roi": true,
+      "has_time": true,
+      "has_performance": true,
+      "categorical_ratio": 0.5882352941176471,
+      "numeric_ratio": 0.4117647058823529,
+      "dimensions": [
+        "Date",
+        "Company",
+        "Campaign_Type",
+        "Target_Audience",
+        "Duration",
+        "Channel_Used",
+        "Acquisition_Cost",
+        "Location",
+        "Language",
+        "Customer_Segment"
+      ],
+      "measures": [
+        "Campaign_ID",
+        "Conversion_Rate",
+        "ROI",
+        "Clicks",
+        "Impressions",
+        "Engagement_Score",
+        "Unnamed: 16"
+      ],
+      "datetime_cols": [],
+      "numeric_heavy": false,
+      "categorical_heavy": true,
+      "small_dataset": false,
+      "large_dataset": true,
+      "sequential_data": true,
+      "distribution_focus": true,
+      "has_performance_metrics": true,
+      "key_metrics": [
+        "Campaign_ID",
+        "Conversion_Rate",
+        "ROI"
+      ]
+    },
+    "session_id": "2025-06-10 11:40:11.779282"
+  },
+  {
+    "timestamp": "2025-06-10T11:40:43.528442",
+    "event_type": "layout_applied",
+    "details": {
+      "layout_name": "ROI Optimization"
+    },
+    "dataset_metadata": {
+      "num_rows": 200000,
+      "num_cols": 17,
+      "num_numeric": 7,
+      "num_categorical": 10,
+      "num_datetime": 0,
+      "has_roi": true,
+      "has_time": true,
+      "has_performance": true,
+      "categorical_ratio": 0.5882352941176471,
+      "numeric_ratio": 0.4117647058823529,
+      "dimensions": [
+        "Date",
+        "Company",
+        "Campaign_Type",
+        "Target_Audience",
+        "Duration",
+        "Channel_Used",
+        "Acquisition_Cost",
+        "Location",
+        "Language",
+        "Customer_Segment"
+      ],
+      "measures": [
+        "Campaign_ID",
+        "Conversion_Rate",
+        "ROI",
+        "Clicks",
+        "Impressions",
+        "Engagement_Score",
+        "Unnamed: 16"
+      ],
+      "datetime_cols": [],
+      "numeric_heavy": false,
+      "categorical_heavy": true,
+      "small_dataset": false,
+      "large_dataset": true,
+      "sequential_data": true,
+      "distribution_focus": true,
+      "has_performance_metrics": true,
+      "key_metrics": [
+        "Campaign_ID",
+        "Conversion_Rate",
+        "ROI"
+      ]
+    },
+    "session_id": "2025-06-10 11:40:11.779282"
+  },
+  {
+    "timestamp": "2025-06-10T11:40:55.874565",
+    "event_type": "dataset_uploaded",
+    "details": {
+      "filename": "marketing_campaign_dataset.csv",
+      "size": 200000
+    },
+    "dataset_metadata": {
+      "num_rows": 200000,
+      "num_cols": 17,
+      "num_numeric": 7,
+      "num_categorical": 10,
+      "num_datetime": 0,
+      "has_roi": true,
+      "has_time": true,
+      "has_performance": true,
+      "categorical_ratio": 0.5882352941176471,
+      "numeric_ratio": 0.4117647058823529,
+      "dimensions": [
+        "Date",
+        "Company",
+        "Campaign_Type",
+        "Target_Audience",
+        "Duration",
+        "Channel_Used",
+        "Acquisition_Cost",
+        "Location",
+        "Language",
+        "Customer_Segment"
+      ],
+      "measures": [
+        "Campaign_ID",
+        "Conversion_Rate",
+        "ROI",
+        "Clicks",
+        "Impressions",
+        "Engagement_Score",
+        "Unnamed: 16"
+      ],
+      "datetime_cols": [],
+      "numeric_heavy": false,
+      "categorical_heavy": true,
+      "small_dataset": false,
+      "large_dataset": true,
+      "sequential_data": true,
+      "distribution_focus": true,
+      "has_performance_metrics": true,
+      "key_metrics": [
+        "Campaign_ID",
+        "Conversion_Rate",
+        "ROI"
+      ]
+    },
+    "session_id": "2025-06-10 11:40:11.779282"
+  },
+  {
+    "timestamp": "2025-06-10T11:40:56.007674",
+    "event_type": "layout_applied",
+    "details": {
+      "layout_name": "ROI Optimization"
+    },
+    "dataset_metadata": {
+      "num_rows": 200000,
+      "num_cols": 17,
+      "num_numeric": 7,
+      "num_categorical": 10,
+      "num_datetime": 0,
+      "has_roi": true,
+      "has_time": true,
+      "has_performance": true,
+      "categorical_ratio": 0.5882352941176471,
+      "numeric_ratio": 0.4117647058823529,
+      "dimensions": [
+        "Date",
+        "Company",
+        "Campaign_Type",
+        "Target_Audience",
+        "Duration",
+        "Channel_Used",
+        "Acquisition_Cost",
+        "Location",
+        "Language",
+        "Customer_Segment"
+      ],
+      "measures": [
+        "Campaign_ID",
+        "Conversion_Rate",
+        "ROI",
+        "Clicks",
+        "Impressions",
+        "Engagement_Score",
+        "Unnamed: 16"
+      ],
+      "datetime_cols": [],
+      "numeric_heavy": false,
+      "categorical_heavy": true,
+      "small_dataset": false,
+      "large_dataset": true,
+      "sequential_data": true,
+      "distribution_focus": true,
+      "has_performance_metrics": true,
+      "key_metrics": [
+        "Campaign_ID",
+        "Conversion_Rate",
+        "ROI"
+      ]
+    },
+    "session_id": "2025-06-10 11:40:11.779282"
+  },
+  {
+    "timestamp": "2025-06-10T11:41:01.175818",
+    "event_type": "dataset_uploaded",
+    "details": {
+      "filename": "marketing_campaign_dataset.csv",
+      "size": 200000
+    },
+    "dataset_metadata": {
+      "num_rows": 200000,
+      "num_cols": 17,
+      "num_numeric": 7,
+      "num_categorical": 10,
+      "num_datetime": 0,
+      "has_roi": true,
+      "has_time": true,
+      "has_performance": true,
+      "categorical_ratio": 0.5882352941176471,
+      "numeric_ratio": 0.4117647058823529,
+      "dimensions": [
+        "Date",
+        "Company",
+        "Campaign_Type",
+        "Target_Audience",
+        "Duration",
+        "Channel_Used",
+        "Acquisition_Cost",
+        "Location",
+        "Language",
+        "Customer_Segment"
+      ],
+      "measures": [
+        "Campaign_ID",
+        "Conversion_Rate",
+        "ROI",
+        "Clicks",
+        "Impressions",
+        "Engagement_Score",
+        "Unnamed: 16"
+      ],
+      "datetime_cols": [],
+      "numeric_heavy": false,
+      "categorical_heavy": true,
+      "small_dataset": false,
+      "large_dataset": true,
+      "sequential_data": true,
+      "distribution_focus": true,
+      "has_performance_metrics": true,
+      "key_metrics": [
+        "Campaign_ID",
+        "Conversion_Rate",
+        "ROI"
+      ]
+    },
+    "session_id": "2025-06-10 11:40:11.779282"
+  },
+  {
+    "timestamp": "2025-06-10T11:41:01.308220",
+    "event_type": "layout_applied",
+    "details": {
+      "layout_name": "Distribution Overview"
+    },
+    "dataset_metadata": {
+      "num_rows": 200000,
+      "num_cols": 17,
+      "num_numeric": 7,
+      "num_categorical": 10,
+      "num_datetime": 0,
+      "has_roi": true,
+      "has_time": true,
+      "has_performance": true,
+      "categorical_ratio": 0.5882352941176471,
+      "numeric_ratio": 0.4117647058823529,
+      "dimensions": [
+        "Date",
+        "Company",
+        "Campaign_Type",
+        "Target_Audience",
+        "Duration",
+        "Channel_Used",
+        "Acquisition_Cost",
+        "Location",
+        "Language",
+        "Customer_Segment"
+      ],
+      "measures": [
+        "Campaign_ID",
+        "Conversion_Rate",
+        "ROI",
+        "Clicks",
+        "Impressions",
+        "Engagement_Score",
+        "Unnamed: 16"
+      ],
+      "datetime_cols": [],
+      "numeric_heavy": false,
+      "categorical_heavy": true,
+      "small_dataset": false,
+      "large_dataset": true,
+      "sequential_data": true,
+      "distribution_focus": true,
+      "has_performance_metrics": true,
+      "key_metrics": [
+        "Campaign_ID",
+        "Conversion_Rate",
+        "ROI"
+      ]
+    },
+    "session_id": "2025-06-10 11:40:11.779282"
+  },
+  {
+    "timestamp": "2025-06-10T11:42:08.791360",
+    "event_type": "dataset_uploaded",
+    "details": {
+      "filename": "marketing_campaign_dataset.csv",
+      "size": 200000
+    },
+    "dataset_metadata": {
+      "num_rows": 200000,
+      "num_cols": 17,
+      "num_numeric": 7,
+      "num_categorical": 10,
+      "num_datetime": 0,
+      "has_roi": true,
+      "has_time": true,
+      "has_performance": true,
+      "categorical_ratio": 0.5882352941176471,
+      "numeric_ratio": 0.4117647058823529,
+      "dimensions": [
+        "Date",
+        "Company",
+        "Campaign_Type",
+        "Target_Audience",
+        "Duration",
+        "Channel_Used",
+        "Acquisition_Cost",
+        "Location",
+        "Language",
+        "Customer_Segment"
+      ],
+      "measures": [
+        "Campaign_ID",
+        "Conversion_Rate",
+        "ROI",
+        "Clicks",
+        "Impressions",
+        "Engagement_Score",
+        "Unnamed: 16"
+      ],
+      "datetime_cols": [],
+      "numeric_heavy": false,
+      "categorical_heavy": true,
+      "small_dataset": false,
+      "large_dataset": true,
+      "sequential_data": true,
+      "distribution_focus": true,
+      "has_performance_metrics": true,
+      "key_metrics": [
+        "Campaign_ID",
+        "Conversion_Rate",
+        "ROI"
+      ]
+    },
+    "session_id": "2025-06-10 11:40:11.779282"
+  },
+  {
+    "timestamp": "2025-06-10T11:42:12.064884",
+    "event_type": "dataset_uploaded",
+    "details": {
+      "filename": "marketing_campaign_dataset.csv",
+      "size": 200000
+    },
+    "dataset_metadata": {
+      "num_rows": 200000,
+      "num_cols": 17,
+      "num_numeric": 7,
+      "num_categorical": 10,
+      "num_datetime": 0,
+      "has_roi": true,
+      "has_time": true,
+      "has_performance": true,
+      "categorical_ratio": 0.5882352941176471,
+      "numeric_ratio": 0.4117647058823529,
+      "dimensions": [
+        "Date",
+        "Company",
+        "Campaign_Type",
+        "Target_Audience",
+        "Duration",
+        "Channel_Used",
+        "Acquisition_Cost",
+        "Location",
+        "Language",
+        "Customer_Segment"
+      ],
+      "measures": [
+        "Campaign_ID",
+        "Conversion_Rate",
+        "ROI",
+        "Clicks",
+        "Impressions",
+        "Engagement_Score",
+        "Unnamed: 16"
+      ],
+      "datetime_cols": [],
+      "numeric_heavy": false,
+      "categorical_heavy": true,
+      "small_dataset": false,
+      "large_dataset": true,
+      "sequential_data": true,
+      "distribution_focus": true,
+      "has_performance_metrics": true,
+      "key_metrics": [
+        "Campaign_ID",
+        "Conversion_Rate",
+        "ROI"
+      ]
+    },
+    "session_id": "2025-06-10 11:40:11.779282"
+  },
+  {
+    "timestamp": "2025-06-10T11:42:40.052514",
+    "event_type": "dataset_uploaded",
+    "details": {
+      "filename": "marketing_campaign_dataset.csv",
+      "size": 200000
+    },
+    "dataset_metadata": {
+      "num_rows": 200000,
+      "num_cols": 17,
+      "num_numeric": 7,
+      "num_categorical": 10,
+      "num_datetime": 0,
+      "has_roi": true,
+      "has_time": true,
+      "has_performance": true,
+      "categorical_ratio": 0.5882352941176471,
+      "numeric_ratio": 0.4117647058823529,
+      "dimensions": [
+        "Date",
+        "Company",
+        "Campaign_Type",
+        "Target_Audience",
+        "Duration",
+        "Channel_Used",
+        "Acquisition_Cost",
+        "Location",
+        "Language",
+        "Customer_Segment"
+      ],
+      "measures": [
+        "Campaign_ID",
+        "Conversion_Rate",
+        "ROI",
+        "Clicks",
+        "Impressions",
+        "Engagement_Score",
+        "Unnamed: 16"
+      ],
+      "datetime_cols": [],
+      "numeric_heavy": false,
+      "categorical_heavy": true,
+      "small_dataset": false,
+      "large_dataset": true,
+      "sequential_data": true,
+      "distribution_focus": true,
+      "has_performance_metrics": true,
+      "key_metrics": [
+        "Campaign_ID",
+        "Conversion_Rate",
+        "ROI"
+      ]
+    },
+    "session_id": "2025-06-10 11:40:11.779282"
+  },
+  {
+    "timestamp": "2025-06-10T11:42:40.236801",
+    "event_type": "feedback_positive",
+    "details": {
+      "layout_name": "ROI Optimization"
+    },
+    "dataset_metadata": {
+      "num_rows": 200000,
+      "num_cols": 17,
+      "num_numeric": 7,
+      "num_categorical": 10,
+      "num_datetime": 0,
+      "has_roi": true,
+      "has_time": true,
+      "has_performance": true,
+      "categorical_ratio": 0.5882352941176471,
+      "numeric_ratio": 0.4117647058823529,
+      "dimensions": [
+        "Date",
+        "Company",
+        "Campaign_Type",
+        "Target_Audience",
+        "Duration",
+        "Channel_Used",
+        "Acquisition_Cost",
+        "Location",
+        "Language",
+        "Customer_Segment"
+      ],
+      "measures": [
+        "Campaign_ID",
+        "Conversion_Rate",
+        "ROI",
+        "Clicks",
+        "Impressions",
+        "Engagement_Score",
+        "Unnamed: 16"
+      ],
+      "datetime_cols": [],
+      "numeric_heavy": false,
+      "categorical_heavy": true,
+      "small_dataset": false,
+      "large_dataset": true,
+      "sequential_data": true,
+      "distribution_focus": true,
+      "has_performance_metrics": true,
+      "key_metrics": [
+        "Campaign_ID",
+        "Conversion_Rate",
+        "ROI"
+      ]
+    },
+    "session_id": "2025-06-10 11:40:11.779282"
+  },
+  {
+    "timestamp": "2025-06-10T11:42:51.519142",
+    "event_type": "dataset_uploaded",
+    "details": {
+      "filename": "marketing_campaign_dataset.csv",
+      "size": 200000
+    },
+    "dataset_metadata": {
+      "num_rows": 200000,
+      "num_cols": 17,
+      "num_numeric": 7,
+      "num_categorical": 10,
+      "num_datetime": 0,
+      "has_roi": true,
+      "has_time": true,
+      "has_performance": true,
+      "categorical_ratio": 0.5882352941176471,
+      "numeric_ratio": 0.4117647058823529,
+      "dimensions": [
+        "Date",
+        "Company",
+        "Campaign_Type",
+        "Target_Audience",
+        "Duration",
+        "Channel_Used",
+        "Acquisition_Cost",
+        "Location",
+        "Language",
+        "Customer_Segment"
+      ],
+      "measures": [
+        "Campaign_ID",
+        "Conversion_Rate",
+        "ROI",
+        "Clicks",
+        "Impressions",
+        "Engagement_Score",
+        "Unnamed: 16"
+      ],
+      "datetime_cols": [],
+      "numeric_heavy": false,
+      "categorical_heavy": true,
+      "small_dataset": false,
+      "large_dataset": true,
+      "sequential_data": true,
+      "distribution_focus": true,
+      "has_performance_metrics": true,
+      "key_metrics": [
+        "Campaign_ID",
+        "Conversion_Rate",
+        "ROI"
+      ]
+    },
+    "session_id": "2025-06-10 11:40:11.779282"
+  },
+  {
+    "timestamp": "2025-06-10T11:42:51.668775",
+    "event_type": "layout_applied",
+    "details": {
+      "layout_name": "Distribution Overview"
+    },
+    "dataset_metadata": {
+      "num_rows": 200000,
+      "num_cols": 17,
+      "num_numeric": 7,
+      "num_categorical": 10,
+      "num_datetime": 0,
+      "has_roi": true,
+      "has_time": true,
+      "has_performance": true,
+      "categorical_ratio": 0.5882352941176471,
+      "numeric_ratio": 0.4117647058823529,
+      "dimensions": [
+        "Date",
+        "Company",
+        "Campaign_Type",
+        "Target_Audience",
+        "Duration",
+        "Channel_Used",
+        "Acquisition_Cost",
+        "Location",
+        "Language",
+        "Customer_Segment"
+      ],
+      "measures": [
+        "Campaign_ID",
+        "Conversion_Rate",
+        "ROI",
+        "Clicks",
+        "Impressions",
+        "Engagement_Score",
+        "Unnamed: 16"
+      ],
+      "datetime_cols": [],
+      "numeric_heavy": false,
+      "categorical_heavy": true,
+      "small_dataset": false,
+      "large_dataset": true,
+      "sequential_data": true,
+      "distribution_focus": true,
+      "has_performance_metrics": true,
+      "key_metrics": [
+        "Campaign_ID",
+        "Conversion_Rate",
+        "ROI"
+      ]
+    },
+    "session_id": "2025-06-10 11:40:11.779282"
+  },
+  {
+    "timestamp": "2025-06-10T11:44:42.118884",
+    "event_type": "dataset_uploaded",
+    "details": {
+      "filename": "marketing_campaign_dataset.csv",
+      "size": 200000
+    },
+    "dataset_metadata": {
+      "num_rows": 200000,
+      "num_cols": 17,
+      "num_numeric": 7,
+      "num_categorical": 10,
+      "num_datetime": 0,
+      "has_roi": true,
+      "has_time": true,
+      "has_performance": true,
+      "categorical_ratio": 0.5882352941176471,
+      "numeric_ratio": 0.4117647058823529,
+      "dimensions": [
+        "Date",
+        "Company",
+        "Campaign_Type",
+        "Target_Audience",
+        "Duration",
+        "Channel_Used",
+        "Acquisition_Cost",
+        "Location",
+        "Language",
+        "Customer_Segment"
+      ],
+      "measures": [
+        "Campaign_ID",
+        "Conversion_Rate",
+        "ROI",
+        "Clicks",
+        "Impressions",
+        "Engagement_Score",
+        "Unnamed: 16"
+      ],
+      "datetime_cols": [],
+      "numeric_heavy": false,
+      "categorical_heavy": true,
+      "small_dataset": false,
+      "large_dataset": true,
+      "sequential_data": true,
+      "distribution_focus": true,
+      "has_performance_metrics": true,
+      "key_metrics": [
+        "Campaign_ID",
+        "Conversion_Rate",
+        "ROI"
+      ]
+    },
+    "session_id": "2025-06-10 11:44:28.576236"
+  },
+  {
+    "timestamp": "2025-06-10T11:45:20.160976",
+    "event_type": "dataset_uploaded",
+    "details": {
+      "filename": "marketing_campaign_dataset.csv",
+      "size": 200000
+    },
+    "dataset_metadata": {
+      "num_rows": 200000,
+      "num_cols": 17,
+      "num_numeric": 7,
+      "num_categorical": 10,
+      "num_datetime": 0,
+      "has_roi": true,
+      "has_time": true,
+      "has_performance": true,
+      "categorical_ratio": 0.5882352941176471,
+      "numeric_ratio": 0.4117647058823529,
+      "dimensions": [
+        "Date",
+        "Company",
+        "Campaign_Type",
+        "Target_Audience",
+        "Duration",
+        "Channel_Used",
+        "Acquisition_Cost",
+        "Location",
+        "Language",
+        "Customer_Segment"
+      ],
+      "measures": [
+        "Campaign_ID",
+        "Conversion_Rate",
+        "ROI",
+        "Clicks",
+        "Impressions",
+        "Engagement_Score",
+        "Unnamed: 16"
+      ],
+      "datetime_cols": [],
+      "numeric_heavy": false,
+      "categorical_heavy": true,
+      "small_dataset": false,
+      "large_dataset": true,
+      "sequential_data": true,
+      "distribution_focus": true,
+      "has_performance_metrics": true,
+      "key_metrics": [
+        "Campaign_ID",
+        "Conversion_Rate",
+        "ROI"
+      ]
+    },
+    "session_id": "2025-06-10 11:44:28.576236"
+  },
+  {
+    "timestamp": "2025-06-10T11:45:20.281203",
+    "event_type": "layout_applied",
+    "details": {
+      "layout_name": "ROI Optimization"
+    },
+    "dataset_metadata": {
+      "num_rows": 200000,
+      "num_cols": 17,
+      "num_numeric": 7,
+      "num_categorical": 10,
+      "num_datetime": 0,
+      "has_roi": true,
+      "has_time": true,
+      "has_performance": true,
+      "categorical_ratio": 0.5882352941176471,
+      "numeric_ratio": 0.4117647058823529,
+      "dimensions": [
+        "Date",
+        "Company",
+        "Campaign_Type",
+        "Target_Audience",
+        "Duration",
+        "Channel_Used",
+        "Acquisition_Cost",
+        "Location",
+        "Language",
+        "Customer_Segment"
+      ],
+      "measures": [
+        "Campaign_ID",
+        "Conversion_Rate",
+        "ROI",
+        "Clicks",
+        "Impressions",
+        "Engagement_Score",
+        "Unnamed: 16"
+      ],
+      "datetime_cols": [],
+      "numeric_heavy": false,
+      "categorical_heavy": true,
+      "small_dataset": false,
+      "large_dataset": true,
+      "sequential_data": true,
+      "distribution_focus": true,
+      "has_performance_metrics": true,
+      "key_metrics": [
+        "Campaign_ID",
+        "Conversion_Rate",
+        "ROI"
+      ]
+    },
+    "session_id": "2025-06-10 11:44:28.576236"
+  },
+  {
+    "timestamp": "2025-06-10T11:45:28.647842",
+    "event_type": "dataset_uploaded",
+    "details": {
+      "filename": "marketing_campaign_dataset.csv",
+      "size": 200000
+    },
+    "dataset_metadata": {
+      "num_rows": 200000,
+      "num_cols": 17,
+      "num_numeric": 7,
+      "num_categorical": 10,
+      "num_datetime": 0,
+      "has_roi": true,
+      "has_time": true,
+      "has_performance": true,
+      "categorical_ratio": 0.5882352941176471,
+      "numeric_ratio": 0.4117647058823529,
+      "dimensions": [
+        "Date",
+        "Company",
+        "Campaign_Type",
+        "Target_Audience",
+        "Duration",
+        "Channel_Used",
+        "Acquisition_Cost",
+        "Location",
+        "Language",
+        "Customer_Segment"
+      ],
+      "measures": [
+        "Campaign_ID",
+        "Conversion_Rate",
+        "ROI",
+        "Clicks",
+        "Impressions",
+        "Engagement_Score",
+        "Unnamed: 16"
+      ],
+      "datetime_cols": [],
+      "numeric_heavy": false,
+      "categorical_heavy": true,
+      "small_dataset": false,
+      "large_dataset": true,
+      "sequential_data": true,
+      "distribution_focus": true,
+      "has_performance_metrics": true,
+      "key_metrics": [
+        "Campaign_ID",
+        "Conversion_Rate",
+        "ROI"
+      ]
+    },
+    "session_id": "2025-06-10 11:44:28.576236"
+  },
+  {
+    "timestamp": "2025-06-10T11:45:39.545833",
+    "event_type": "dataset_uploaded",
+    "details": {
+      "filename": "marketing_campaign_dataset.csv",
+      "size": 200000
+    },
+    "dataset_metadata": {
+      "num_rows": 200000,
+      "num_cols": 17,
+      "num_numeric": 7,
+      "num_categorical": 10,
+      "num_datetime": 0,
+      "has_roi": true,
+      "has_time": true,
+      "has_performance": true,
+      "categorical_ratio": 0.5882352941176471,
+      "numeric_ratio": 0.4117647058823529,
+      "dimensions": [
+        "Date",
+        "Company",
+        "Campaign_Type",
+        "Target_Audience",
+        "Duration",
+        "Channel_Used",
+        "Acquisition_Cost",
+        "Location",
+        "Language",
+        "Customer_Segment"
+      ],
+      "measures": [
+        "Campaign_ID",
+        "Conversion_Rate",
+        "ROI",
+        "Clicks",
+        "Impressions",
+        "Engagement_Score",
+        "Unnamed: 16"
+      ],
+      "datetime_cols": [],
+      "numeric_heavy": false,
+      "categorical_heavy": true,
+      "small_dataset": false,
+      "large_dataset": true,
+      "sequential_data": true,
+      "distribution_focus": true,
+      "has_performance_metrics": true,
+      "key_metrics": [
+        "Campaign_ID",
+        "Conversion_Rate",
+        "ROI"
+      ]
+    },
+    "session_id": "2025-06-10 11:44:28.576236"
+  },
+  {
+    "timestamp": "2025-06-10T11:45:40.602042",
+    "event_type": "extended_viewing",
+    "details": {
+      "layout_name": "ROI Optimization",
+      "duration_seconds": 20.220915
+    },
+    "dataset_metadata": {
+      "num_rows": 200000,
+      "num_cols": 17,
+      "num_numeric": 7,
+      "num_categorical": 10,
+      "num_datetime": 0,
+      "has_roi": true,
+      "has_time": true,
+      "has_performance": true,
+      "categorical_ratio": 0.5882352941176471,
+      "numeric_ratio": 0.4117647058823529,
+      "dimensions": [
+        "Date",
+        "Company",
+        "Campaign_Type",
+        "Target_Audience",
+        "Duration",
+        "Channel_Used",
+        "Acquisition_Cost",
+        "Location",
+        "Language",
+        "Customer_Segment"
+      ],
+      "measures": [
+        "Campaign_ID",
+        "Conversion_Rate",
+        "ROI",
+        "Clicks",
+        "Impressions",
+        "Engagement_Score",
+        "Unnamed: 16"
+      ],
+      "datetime_cols": [],
+      "numeric_heavy": false,
+      "categorical_heavy": true,
+      "small_dataset": false,
+      "large_dataset": true,
+      "sequential_data": true,
+      "distribution_focus": true,
+      "has_performance_metrics": true,
+      "key_metrics": [
+        "Campaign_ID",
+        "Conversion_Rate",
+        "ROI"
+      ]
+    },
+    "session_id": "2025-06-10 11:44:28.576236"
+  },
+  {
+    "timestamp": "2025-06-10T11:45:43.260727",
+    "event_type": "dataset_uploaded",
+    "details": {
+      "filename": "marketing_campaign_dataset.csv",
+      "size": 200000
+    },
+    "dataset_metadata": {
+      "num_rows": 200000,
+      "num_cols": 17,
+      "num_numeric": 7,
+      "num_categorical": 10,
+      "num_datetime": 0,
+      "has_roi": true,
+      "has_time": true,
+      "has_performance": true,
+      "categorical_ratio": 0.5882352941176471,
+      "numeric_ratio": 0.4117647058823529,
+      "dimensions": [
+        "Date",
+        "Company",
+        "Campaign_Type",
+        "Target_Audience",
+        "Duration",
+        "Channel_Used",
+        "Acquisition_Cost",
+        "Location",
+        "Language",
+        "Customer_Segment"
+      ],
+      "measures": [
+        "Campaign_ID",
+        "Conversion_Rate",
+        "ROI",
+        "Clicks",
+        "Impressions",
+        "Engagement_Score",
+        "Unnamed: 16"
+      ],
+      "datetime_cols": [],
+      "numeric_heavy": false,
+      "categorical_heavy": true,
+      "small_dataset": false,
+      "large_dataset": true,
+      "sequential_data": true,
+      "distribution_focus": true,
+      "has_performance_metrics": true,
+      "key_metrics": [
+        "Campaign_ID",
+        "Conversion_Rate",
+        "ROI"
+      ]
+    },
+    "session_id": "2025-06-10 11:44:28.576236"
+  },
+  {
+    "timestamp": "2025-06-10T11:46:58.235734",
+    "event_type": "dataset_uploaded",
+    "details": {
+      "filename": "marketing_campaign_dataset.csv",
+      "size": 200000
+    },
+    "dataset_metadata": {
+      "num_rows": 200000,
+      "num_cols": 17,
+      "num_numeric": 7,
+      "num_categorical": 10,
+      "num_datetime": 0,
+      "has_roi": true,
+      "has_time": true,
+      "has_performance": true,
+      "categorical_ratio": 0.5882352941176471,
+      "numeric_ratio": 0.4117647058823529,
+      "dimensions": [
+        "Date",
+        "Company",
+        "Campaign_Type",
+        "Target_Audience",
+        "Duration",
+        "Channel_Used",
+        "Acquisition_Cost",
+        "Location",
+        "Language",
+        "Customer_Segment"
+      ],
+      "measures": [
+        "Campaign_ID",
+        "Conversion_Rate",
+        "ROI",
+        "Clicks",
+        "Impressions",
+        "Engagement_Score",
+        "Unnamed: 16"
+      ],
+      "datetime_cols": [],
+      "numeric_heavy": false,
+      "categorical_heavy": true,
+      "small_dataset": false,
+      "large_dataset": true,
+      "sequential_data": true,
+      "distribution_focus": true,
+      "has_performance_metrics": true,
+      "key_metrics": [
+        "Campaign_ID",
+        "Conversion_Rate",
+        "ROI"
+      ]
+    },
+    "session_id": "2025-06-10 11:44:28.576236"
+  },
+  {
+    "timestamp": "2025-06-10T11:46:58.599698",
+    "event_type": "chart_clicked",
+    "details": {
+      "chart_name": "Line Chart: Trends"
+    },
+    "dataset_metadata": {
+      "num_rows": 200000,
+      "num_cols": 17,
+      "num_numeric": 7,
+      "num_categorical": 10,
+      "num_datetime": 0,
+      "has_roi": true,
+      "has_time": true,
+      "has_performance": true,
+      "categorical_ratio": 0.5882352941176471,
+      "numeric_ratio": 0.4117647058823529,
+      "dimensions": [
+        "Date",
+        "Company",
+        "Campaign_Type",
+        "Target_Audience",
+        "Duration",
+        "Channel_Used",
+        "Acquisition_Cost",
+        "Location",
+        "Language",
+        "Customer_Segment"
+      ],
+      "measures": [
+        "Campaign_ID",
+        "Conversion_Rate",
+        "ROI",
+        "Clicks",
+        "Impressions",
+        "Engagement_Score",
+        "Unnamed: 16"
+      ],
+      "datetime_cols": [],
+      "numeric_heavy": false,
+      "categorical_heavy": true,
+      "small_dataset": false,
+      "large_dataset": true,
+      "sequential_data": true,
+      "distribution_focus": true,
+      "has_performance_metrics": true,
+      "key_metrics": [
+        "Campaign_ID",
+        "Conversion_Rate",
+        "ROI"
+      ]
+    },
+    "session_id": "2025-06-10 11:44:28.576236"
+  },
+  {
+    "timestamp": "2025-06-10T12:03:35.821699",
+    "event_type": "dataset_uploaded",
+    "details": {
+      "filename": "marketing_campaign_dataset.csv",
+      "size": 200000
+    },
+    "dataset_metadata": {
+      "num_rows": 200000,
+      "num_cols": 17,
+      "num_numeric": 7,
+      "num_categorical": 10,
+      "num_datetime": 0,
+      "has_roi": true,
+      "has_time": true,
+      "has_performance": true,
+      "categorical_ratio": 0.5882352941176471,
+      "numeric_ratio": 0.4117647058823529,
+      "dimensions": [
+        "Date",
+        "Company",
+        "Campaign_Type",
+        "Target_Audience",
+        "Duration",
+        "Channel_Used",
+        "Acquisition_Cost",
+        "Location",
+        "Language",
+        "Customer_Segment"
+      ],
+      "measures": [
+        "Campaign_ID",
+        "Conversion_Rate",
+        "ROI",
+        "Clicks",
+        "Impressions",
+        "Engagement_Score",
+        "Unnamed: 16"
+      ],
+      "datetime_cols": [],
+      "numeric_heavy": false,
+      "categorical_heavy": true,
+      "small_dataset": false,
+      "large_dataset": true,
+      "sequential_data": true,
+      "distribution_focus": true,
+      "has_performance_metrics": true,
+      "key_metrics": [
+        "Campaign_ID",
+        "Conversion_Rate",
+        "ROI"
+      ]
+    },
+    "session_id": "2025-06-10 12:03:27.369680"
+  },
+  {
+    "timestamp": "2025-06-10T12:06:22.962102",
+    "event_type": "dataset_uploaded",
+    "details": {
+      "filename": "marketing_campaign_dataset.csv",
+      "size": 200000
+    },
+    "dataset_metadata": {
+      "num_rows": 200000,
+      "num_cols": 17,
+      "num_numeric": 7,
+      "num_categorical": 10,
+      "num_datetime": 0,
+      "has_roi": true,
+      "has_time": true,
+      "has_performance": true,
+      "categorical_ratio": 0.5882352941176471,
+      "numeric_ratio": 0.4117647058823529,
+      "dimensions": [
+        "Date",
+        "Company",
+        "Campaign_Type",
+        "Target_Audience",
+        "Duration",
+        "Channel_Used",
+        "Acquisition_Cost",
+        "Location",
+        "Language",
+        "Customer_Segment"
+      ],
+      "measures": [
+        "Campaign_ID",
+        "Conversion_Rate",
+        "ROI",
+        "Clicks",
+        "Impressions",
+        "Engagement_Score",
+        "Unnamed: 16"
+      ],
+      "datetime_cols": [],
+      "numeric_heavy": false,
+      "categorical_heavy": true,
+      "small_dataset": false,
+      "large_dataset": true,
+      "sequential_data": true,
+      "distribution_focus": true,
+      "has_performance_metrics": true,
+      "key_metrics": [
+        "Campaign_ID",
+        "Conversion_Rate",
+        "ROI"
+      ]
+    },
+    "session_id": "2025-06-10 12:03:27.369680"
+  },
+  {
+    "timestamp": "2025-06-10T12:06:23.081764",
+    "event_type": "layout_applied",
+    "details": {
+      "layout_name": "ROI Optimization"
+    },
+    "dataset_metadata": {
+      "num_rows": 200000,
+      "num_cols": 17,
+      "num_numeric": 7,
+      "num_categorical": 10,
+      "num_datetime": 0,
+      "has_roi": true,
+      "has_time": true,
+      "has_performance": true,
+      "categorical_ratio": 0.5882352941176471,
+      "numeric_ratio": 0.4117647058823529,
+      "dimensions": [
+        "Date",
+        "Company",
+        "Campaign_Type",
+        "Target_Audience",
+        "Duration",
+        "Channel_Used",
+        "Acquisition_Cost",
+        "Location",
+        "Language",
+        "Customer_Segment"
+      ],
+      "measures": [
+        "Campaign_ID",
+        "Conversion_Rate",
+        "ROI",
+        "Clicks",
+        "Impressions",
+        "Engagement_Score",
+        "Unnamed: 16"
+      ],
+      "datetime_cols": [],
+      "numeric_heavy": false,
+      "categorical_heavy": true,
+      "small_dataset": false,
+      "large_dataset": true,
+      "sequential_data": true,
+      "distribution_focus": true,
+      "has_performance_metrics": true,
+      "key_metrics": [
+        "Campaign_ID",
+        "Conversion_Rate",
+        "ROI"
+      ]
+    },
+    "session_id": "2025-06-10 12:03:27.369680"
+  },
+  {
+    "timestamp": "2025-06-10T12:06:23.733675",
+    "event_type": "dataset_uploaded",
+    "details": {
+      "filename": "marketing_campaign_dataset.csv",
+      "size": 200000
+    },
+    "dataset_metadata": {
+      "num_rows": 200000,
+      "num_cols": 17,
+      "num_numeric": 7,
+      "num_categorical": 10,
+      "num_datetime": 0,
+      "has_roi": true,
+      "has_time": true,
+      "has_performance": true,
+      "categorical_ratio": 0.5882352941176471,
+      "numeric_ratio": 0.4117647058823529,
+      "dimensions": [
+        "Date",
+        "Company",
+        "Campaign_Type",
+        "Target_Audience",
+        "Duration",
+        "Channel_Used",
+        "Acquisition_Cost",
+        "Location",
+        "Language",
+        "Customer_Segment"
+      ],
+      "measures": [
+        "Campaign_ID",
+        "Conversion_Rate",
+        "ROI",
+        "Clicks",
+        "Impressions",
+        "Engagement_Score",
+        "Unnamed: 16"
+      ],
+      "datetime_cols": [],
+      "numeric_heavy": false,
+      "categorical_heavy": true,
+      "small_dataset": false,
+      "large_dataset": true,
+      "sequential_data": true,
+      "distribution_focus": true,
+      "has_performance_metrics": true,
+      "key_metrics": [
+        "Campaign_ID",
+        "Conversion_Rate",
+        "ROI"
+      ]
+    },
+    "session_id": "2025-06-10 12:03:27.369680"
+  },
+  {
+    "timestamp": "2025-06-10T12:06:30.070723",
+    "event_type": "dataset_uploaded",
+    "details": {
+      "filename": "marketing_campaign_dataset.csv",
+      "size": 200000
+    },
+    "dataset_metadata": {
+      "num_rows": 200000,
+      "num_cols": 17,
+      "num_numeric": 7,
+      "num_categorical": 10,
+      "num_datetime": 0,
+      "has_roi": true,
+      "has_time": true,
+      "has_performance": true,
+      "categorical_ratio": 0.5882352941176471,
+      "numeric_ratio": 0.4117647058823529,
+      "dimensions": [
+        "Date",
+        "Company",
+        "Campaign_Type",
+        "Target_Audience",
+        "Duration",
+        "Channel_Used",
+        "Acquisition_Cost",
+        "Location",
+        "Language",
+        "Customer_Segment"
+      ],
+      "measures": [
+        "Campaign_ID",
+        "Conversion_Rate",
+        "ROI",
+        "Clicks",
+        "Impressions",
+        "Engagement_Score",
+        "Unnamed: 16"
+      ],
+      "datetime_cols": [],
+      "numeric_heavy": false,
+      "categorical_heavy": true,
+      "small_dataset": false,
+      "large_dataset": true,
+      "sequential_data": true,
+      "distribution_focus": true,
+      "has_performance_metrics": true,
+      "key_metrics": [
+        "Campaign_ID",
+        "Conversion_Rate",
+        "ROI"
+      ]
+    },
+    "session_id": "2025-06-10 12:03:27.369680"
+  },
+  {
+    "timestamp": "2025-06-10T12:06:30.213268",
+    "event_type": "layout_applied",
+    "details": {
+      "layout_name": "ROI Optimization"
+    },
+    "dataset_metadata": {
+      "num_rows": 200000,
+      "num_cols": 17,
+      "num_numeric": 7,
+      "num_categorical": 10,
+      "num_datetime": 0,
+      "has_roi": true,
+      "has_time": true,
+      "has_performance": true,
+      "categorical_ratio": 0.5882352941176471,
+      "numeric_ratio": 0.4117647058823529,
+      "dimensions": [
+        "Date",
+        "Company",
+        "Campaign_Type",
+        "Target_Audience",
+        "Duration",
+        "Channel_Used",
+        "Acquisition_Cost",
+        "Location",
+        "Language",
+        "Customer_Segment"
+      ],
+      "measures": [
+        "Campaign_ID",
+        "Conversion_Rate",
+        "ROI",
+        "Clicks",
+        "Impressions",
+        "Engagement_Score",
+        "Unnamed: 16"
+      ],
+      "datetime_cols": [],
+      "numeric_heavy": false,
+      "categorical_heavy": true,
+      "small_dataset": false,
+      "large_dataset": true,
+      "sequential_data": true,
+      "distribution_focus": true,
+      "has_performance_metrics": true,
+      "key_metrics": [
+        "Campaign_ID",
+        "Conversion_Rate",
+        "ROI"
+      ]
+    },
+    "session_id": "2025-06-10 12:03:27.369680"
+  },
+  {
+    "timestamp": "2025-06-10T12:06:30.880624",
+    "event_type": "dataset_uploaded",
+    "details": {
+      "filename": "marketing_campaign_dataset.csv",
+      "size": 200000
+    },
+    "dataset_metadata": {
+      "num_rows": 200000,
+      "num_cols": 17,
+      "num_numeric": 7,
+      "num_categorical": 10,
+      "num_datetime": 0,
+      "has_roi": true,
+      "has_time": true,
+      "has_performance": true,
+      "categorical_ratio": 0.5882352941176471,
+      "numeric_ratio": 0.4117647058823529,
+      "dimensions": [
+        "Date",
+        "Company",
+        "Campaign_Type",
+        "Target_Audience",
+        "Duration",
+        "Channel_Used",
+        "Acquisition_Cost",
+        "Location",
+        "Language",
+        "Customer_Segment"
+      ],
+      "measures": [
+        "Campaign_ID",
+        "Conversion_Rate",
+        "ROI",
+        "Clicks",
+        "Impressions",
+        "Engagement_Score",
+        "Unnamed: 16"
+      ],
+      "datetime_cols": [],
+      "numeric_heavy": false,
+      "categorical_heavy": true,
+      "small_dataset": false,
+      "large_dataset": true,
+      "sequential_data": true,
+      "distribution_focus": true,
+      "has_performance_metrics": true,
+      "key_metrics": [
+        "Campaign_ID",
+        "Conversion_Rate",
+        "ROI"
+      ]
+    },
+    "session_id": "2025-06-10 12:03:27.369680"
+  },
+  {
+    "timestamp": "2025-06-10T12:06:44.225889",
+    "event_type": "dataset_uploaded",
+    "details": {
+      "filename": "marketing_campaign_dataset.csv",
+      "size": 200000
+    },
+    "dataset_metadata": {
+      "num_rows": 200000,
+      "num_cols": 17,
+      "num_numeric": 7,
+      "num_categorical": 10,
+      "num_datetime": 0,
+      "has_roi": true,
+      "has_time": true,
+      "has_performance": true,
+      "categorical_ratio": 0.5882352941176471,
+      "numeric_ratio": 0.4117647058823529,
+      "dimensions": [
+        "Date",
+        "Company",
+        "Campaign_Type",
+        "Target_Audience",
+        "Duration",
+        "Channel_Used",
+        "Acquisition_Cost",
+        "Location",
+        "Language",
+        "Customer_Segment"
+      ],
+      "measures": [
+        "Campaign_ID",
+        "Conversion_Rate",
+        "ROI",
+        "Clicks",
+        "Impressions",
+        "Engagement_Score",
+        "Unnamed: 16"
+      ],
+      "datetime_cols": [],
+      "numeric_heavy": false,
+      "categorical_heavy": true,
+      "small_dataset": false,
+      "large_dataset": true,
+      "sequential_data": true,
+      "distribution_focus": true,
+      "has_performance_metrics": true,
+      "key_metrics": [
+        "Campaign_ID",
+        "Conversion_Rate",
+        "ROI"
+      ]
+    },
+    "session_id": "2025-06-10 12:03:27.369680"
+  },
+  {
+    "timestamp": "2025-06-10T12:06:45.397176",
+    "event_type": "extended_viewing",
+    "details": {
+      "layout_name": "ROI Optimization",
+      "duration_seconds": 15.076641
+    },
+    "dataset_metadata": {
+      "num_rows": 200000,
+      "num_cols": 17,
+      "num_numeric": 7,
+      "num_categorical": 10,
+      "num_datetime": 0,
+      "has_roi": true,
+      "has_time": true,
+      "has_performance": true,
+      "categorical_ratio": 0.5882352941176471,
+      "numeric_ratio": 0.4117647058823529,
+      "dimensions": [
+        "Date",
+        "Company",
+        "Campaign_Type",
+        "Target_Audience",
+        "Duration",
+        "Channel_Used",
+        "Acquisition_Cost",
+        "Location",
+        "Language",
+        "Customer_Segment"
+      ],
+      "measures": [
+        "Campaign_ID",
+        "Conversion_Rate",
+        "ROI",
+        "Clicks",
+        "Impressions",
+        "Engagement_Score",
+        "Unnamed: 16"
+      ],
+      "datetime_cols": [],
+      "numeric_heavy": false,
+      "categorical_heavy": true,
+      "small_dataset": false,
+      "large_dataset": true,
+      "sequential_data": true,
+      "distribution_focus": true,
+      "has_performance_metrics": true,
+      "key_metrics": [
+        "Campaign_ID",
+        "Conversion_Rate",
+        "ROI"
+      ]
+    },
+    "session_id": "2025-06-10 12:03:27.369680"
+  },
+  {
+    "timestamp": "2025-06-10T12:07:02.508560",
+    "event_type": "dataset_uploaded",
+    "details": {
+      "filename": "marketing_campaign_dataset.csv",
+      "size": 200000
+    },
+    "dataset_metadata": {
+      "num_rows": 200000,
+      "num_cols": 17,
+      "num_numeric": 7,
+      "num_categorical": 10,
+      "num_datetime": 0,
+      "has_roi": true,
+      "has_time": true,
+      "has_performance": true,
+      "categorical_ratio": 0.5882352941176471,
+      "numeric_ratio": 0.4117647058823529,
+      "dimensions": [
+        "Date",
+        "Company",
+        "Campaign_Type",
+        "Target_Audience",
+        "Duration",
+        "Channel_Used",
+        "Acquisition_Cost",
+        "Location",
+        "Language",
+        "Customer_Segment"
+      ],
+      "measures": [
+        "Campaign_ID",
+        "Conversion_Rate",
+        "ROI",
+        "Clicks",
+        "Impressions",
+        "Engagement_Score",
+        "Unnamed: 16"
+      ],
+      "datetime_cols": [],
+      "numeric_heavy": false,
+      "categorical_heavy": true,
+      "small_dataset": false,
+      "large_dataset": true,
+      "sequential_data": true,
+      "distribution_focus": true,
+      "has_performance_metrics": true,
+      "key_metrics": [
+        "Campaign_ID",
+        "Conversion_Rate",
+        "ROI"
+      ]
+    },
+    "session_id": "2025-06-10 12:03:27.369680"
+  },
+  {
+    "timestamp": "2025-06-10T12:07:02.953052",
+    "event_type": "chart_clicked",
+    "details": {
+      "chart_name": "Line Chart: Trends"
+    },
+    "dataset_metadata": {
+      "num_rows": 200000,
+      "num_cols": 17,
+      "num_numeric": 7,
+      "num_categorical": 10,
+      "num_datetime": 0,
+      "has_roi": true,
+      "has_time": true,
+      "has_performance": true,
+      "categorical_ratio": 0.5882352941176471,
+      "numeric_ratio": 0.4117647058823529,
+      "dimensions": [
+        "Date",
+        "Company",
+        "Campaign_Type",
+        "Target_Audience",
+        "Duration",
+        "Channel_Used",
+        "Acquisition_Cost",
+        "Location",
+        "Language",
+        "Customer_Segment"
+      ],
+      "measures": [
+        "Campaign_ID",
+        "Conversion_Rate",
+        "ROI",
+        "Clicks",
+        "Impressions",
+        "Engagement_Score",
+        "Unnamed: 16"
+      ],
+      "datetime_cols": [],
+      "numeric_heavy": false,
+      "categorical_heavy": true,
+      "small_dataset": false,
+      "large_dataset": true,
+      "sequential_data": true,
+      "distribution_focus": true,
+      "has_performance_metrics": true,
+      "key_metrics": [
+        "Campaign_ID",
+        "Conversion_Rate",
+        "ROI"
+      ]
+    },
+    "session_id": "2025-06-10 12:03:27.369680"
+  },
+  {
+    "timestamp": "2025-06-10T12:07:10.469349",
+    "event_type": "dataset_uploaded",
+    "details": {
+      "filename": "marketing_campaign_dataset.csv",
+      "size": 200000
+    },
+    "dataset_metadata": {
+      "num_rows": 200000,
+      "num_cols": 17,
+      "num_numeric": 7,
+      "num_categorical": 10,
+      "num_datetime": 0,
+      "has_roi": true,
+      "has_time": true,
+      "has_performance": true,
+      "categorical_ratio": 0.5882352941176471,
+      "numeric_ratio": 0.4117647058823529,
+      "dimensions": [
+        "Date",
+        "Company",
+        "Campaign_Type",
+        "Target_Audience",
+        "Duration",
+        "Channel_Used",
+        "Acquisition_Cost",
+        "Location",
+        "Language",
+        "Customer_Segment"
+      ],
+      "measures": [
+        "Campaign_ID",
+        "Conversion_Rate",
+        "ROI",
+        "Clicks",
+        "Impressions",
+        "Engagement_Score",
+        "Unnamed: 16"
+      ],
+      "datetime_cols": [],
+      "numeric_heavy": false,
+      "categorical_heavy": true,
+      "small_dataset": false,
+      "large_dataset": true,
+      "sequential_data": true,
+      "distribution_focus": true,
+      "has_performance_metrics": true,
+      "key_metrics": [
+        "Campaign_ID",
+        "Conversion_Rate",
+        "ROI"
+      ]
+    },
+    "session_id": "2025-06-10 12:03:27.369680"
+  },
+  {
+    "timestamp": "2025-06-10T12:07:10.947586",
+    "event_type": "chart_clicked",
+    "details": {
+      "chart_name": "Histogram: Distribution"
+    },
+    "dataset_metadata": {
+      "num_rows": 200000,
+      "num_cols": 17,
+      "num_numeric": 7,
+      "num_categorical": 10,
+      "num_datetime": 0,
+      "has_roi": true,
+      "has_time": true,
+      "has_performance": true,
+      "categorical_ratio": 0.5882352941176471,
+      "numeric_ratio": 0.4117647058823529,
+      "dimensions": [
+        "Date",
+        "Company",
+        "Campaign_Type",
+        "Target_Audience",
+        "Duration",
+        "Channel_Used",
+        "Acquisition_Cost",
+        "Location",
+        "Language",
+        "Customer_Segment"
+      ],
+      "measures": [
+        "Campaign_ID",
+        "Conversion_Rate",
+        "ROI",
+        "Clicks",
+        "Impressions",
+        "Engagement_Score",
+        "Unnamed: 16"
+      ],
+      "datetime_cols": [],
+      "numeric_heavy": false,
+      "categorical_heavy": true,
+      "small_dataset": false,
+      "large_dataset": true,
+      "sequential_data": true,
+      "distribution_focus": true,
+      "has_performance_metrics": true,
+      "key_metrics": [
+        "Campaign_ID",
+        "Conversion_Rate",
+        "ROI"
+      ]
+    },
+    "session_id": "2025-06-10 12:03:27.369680"
+  },
+  {
+    "timestamp": "2025-06-10T12:08:50.663908",
+    "event_type": "dataset_uploaded",
+    "details": {
+      "filename": "marketing_campaign_dataset.csv",
+      "size": 200000
+    },
+    "dataset_metadata": {
+      "num_rows": 200000,
+      "num_cols": 17,
+      "num_numeric": 7,
+      "num_categorical": 10,
+      "num_datetime": 0,
+      "has_roi": true,
+      "has_time": true,
+      "has_performance": true,
+      "categorical_ratio": 0.5882352941176471,
+      "numeric_ratio": 0.4117647058823529,
+      "dimensions": [
+        "Date",
+        "Company",
+        "Campaign_Type",
+        "Target_Audience",
+        "Duration",
+        "Channel_Used",
+        "Acquisition_Cost",
+        "Location",
+        "Language",
+        "Customer_Segment"
+      ],
+      "measures": [
+        "Campaign_ID",
+        "Conversion_Rate",
+        "ROI",
+        "Clicks",
+        "Impressions",
+        "Engagement_Score",
+        "Unnamed: 16"
+      ],
+      "datetime_cols": [],
+      "numeric_heavy": false,
+      "categorical_heavy": true,
+      "small_dataset": false,
+      "large_dataset": true,
+      "sequential_data": true,
+      "distribution_focus": true,
+      "has_performance_metrics": true,
+      "key_metrics": [
+        "Campaign_ID",
+        "Conversion_Rate",
+        "ROI"
+      ]
+    },
+    "session_id": "2025-06-10 12:03:27.369680"
+  },
+  {
+    "timestamp": "2025-06-10T12:08:53.687572",
+    "event_type": "dataset_uploaded",
+    "details": {
+      "filename": "marketing_campaign_dataset.csv",
+      "size": 200000
+    },
+    "dataset_metadata": {
+      "num_rows": 200000,
+      "num_cols": 17,
+      "num_numeric": 7,
+      "num_categorical": 10,
+      "num_datetime": 0,
+      "has_roi": true,
+      "has_time": true,
+      "has_performance": true,
+      "categorical_ratio": 0.5882352941176471,
+      "numeric_ratio": 0.4117647058823529,
+      "dimensions": [
+        "Date",
+        "Company",
+        "Campaign_Type",
+        "Target_Audience",
+        "Duration",
+        "Channel_Used",
+        "Acquisition_Cost",
+        "Location",
+        "Language",
+        "Customer_Segment"
+      ],
+      "measures": [
+        "Campaign_ID",
+        "Conversion_Rate",
+        "ROI",
+        "Clicks",
+        "Impressions",
+        "Engagement_Score",
+        "Unnamed: 16"
+      ],
+      "datetime_cols": [],
+      "numeric_heavy": false,
+      "categorical_heavy": true,
+      "small_dataset": false,
+      "large_dataset": true,
+      "sequential_data": true,
+      "distribution_focus": true,
+      "has_performance_metrics": true,
+      "key_metrics": [
+        "Campaign_ID",
+        "Conversion_Rate",
+        "ROI"
+      ]
+    },
+    "session_id": "2025-06-10 12:03:27.369680"
+  },
+  {
+    "timestamp": "2025-06-10T12:12:13.347365",
+    "event_type": "dataset_uploaded",
+    "details": {
+      "filename": "marketing_campaign_dataset.csv",
+      "size": 200000
+    },
+    "dataset_metadata": {
+      "num_rows": 200000,
+      "num_cols": 17,
+      "num_numeric": 7,
+      "num_categorical": 10,
+      "num_datetime": 0,
+      "has_roi": true,
+      "has_time": true,
+      "has_performance": true,
+      "categorical_ratio": 0.5882352941176471,
+      "numeric_ratio": 0.4117647058823529,
+      "dimensions": [
+        "Date",
+        "Company",
+        "Campaign_Type",
+        "Target_Audience",
+        "Duration",
+        "Channel_Used",
+        "Acquisition_Cost",
+        "Location",
+        "Language",
+        "Customer_Segment"
+      ],
+      "measures": [
+        "Campaign_ID",
+        "Conversion_Rate",
+        "ROI",
+        "Clicks",
+        "Impressions",
+        "Engagement_Score",
+        "Unnamed: 16"
+      ],
+      "datetime_cols": [],
+      "numeric_heavy": false,
+      "categorical_heavy": true,
+      "small_dataset": false,
+      "large_dataset": true,
+      "sequential_data": true,
+      "distribution_focus": true,
+      "has_performance_metrics": true,
+      "key_metrics": [
+        "Campaign_ID",
+        "Conversion_Rate",
+        "ROI"
+      ]
+    },
+    "session_id": "2025-06-10 12:12:01.779311"
+  },
+  {
+    "timestamp": "2025-06-10T12:13:50.082487",
+    "event_type": "dataset_uploaded",
+    "details": {
+      "filename": "marketing_campaign_dataset.csv",
+      "size": 200000
+    },
+    "dataset_metadata": {
+      "num_rows": 200000,
+      "num_cols": 17,
+      "num_numeric": 7,
+      "num_categorical": 10,
+      "num_datetime": 0,
+      "has_roi": true,
+      "has_time": true,
+      "has_performance": true,
+      "categorical_ratio": 0.5882352941176471,
+      "numeric_ratio": 0.4117647058823529,
+      "dimensions": [
+        "Date",
+        "Company",
+        "Campaign_Type",
+        "Target_Audience",
+        "Duration",
+        "Channel_Used",
+        "Acquisition_Cost",
+        "Location",
+        "Language",
+        "Customer_Segment"
+      ],
+      "measures": [
+        "Campaign_ID",
+        "Conversion_Rate",
+        "ROI",
+        "Clicks",
+        "Impressions",
+        "Engagement_Score",
+        "Unnamed: 16"
+      ],
+      "datetime_cols": [],
+      "numeric_heavy": false,
+      "categorical_heavy": true,
+      "small_dataset": false,
+      "large_dataset": true,
+      "sequential_data": true,
+      "distribution_focus": true,
+      "has_performance_metrics": true,
+      "key_metrics": [
+        "Campaign_ID",
+        "Conversion_Rate",
+        "ROI"
+      ]
+    },
+    "session_id": "2025-06-10 12:12:01.779311"
+  },
+  {
+    "timestamp": "2025-06-10T12:13:57.615799",
+    "event_type": "dataset_uploaded",
+    "details": {
+      "filename": "marketing_campaign_dataset.csv",
+      "size": 200000
+    },
+    "dataset_metadata": {
+      "num_rows": 200000,
+      "num_cols": 17,
+      "num_numeric": 7,
+      "num_categorical": 10,
+      "num_datetime": 0,
+      "has_roi": true,
+      "has_time": true,
+      "has_performance": true,
+      "categorical_ratio": 0.5882352941176471,
+      "numeric_ratio": 0.4117647058823529,
+      "dimensions": [
+        "Date",
+        "Company",
+        "Campaign_Type",
+        "Target_Audience",
+        "Duration",
+        "Channel_Used",
+        "Acquisition_Cost",
+        "Location",
+        "Language",
+        "Customer_Segment"
+      ],
+      "measures": [
+        "Campaign_ID",
+        "Conversion_Rate",
+        "ROI",
+        "Clicks",
+        "Impressions",
+        "Engagement_Score",
+        "Unnamed: 16"
+      ],
+      "datetime_cols": [],
+      "numeric_heavy": false,
+      "categorical_heavy": true,
+      "small_dataset": false,
+      "large_dataset": true,
+      "sequential_data": true,
+      "distribution_focus": true,
+      "has_performance_metrics": true,
+      "key_metrics": [
+        "Campaign_ID",
+        "Conversion_Rate",
+        "ROI"
+      ]
+    },
+    "session_id": "2025-06-10 12:12:01.779311"
+  },
+  {
+    "timestamp": "2025-06-10T12:14:02.211450",
+    "event_type": "dataset_uploaded",
+    "details": {
+      "filename": "marketing_campaign_dataset.csv",
+      "size": 200000
+    },
+    "dataset_metadata": {
+      "num_rows": 200000,
+      "num_cols": 17,
+      "num_numeric": 7,
+      "num_categorical": 10,
+      "num_datetime": 0,
+      "has_roi": true,
+      "has_time": true,
+      "has_performance": true,
+      "categorical_ratio": 0.5882352941176471,
+      "numeric_ratio": 0.4117647058823529,
+      "dimensions": [
+        "Date",
+        "Company",
+        "Campaign_Type",
+        "Target_Audience",
+        "Duration",
+        "Channel_Used",
+        "Acquisition_Cost",
+        "Location",
+        "Language",
+        "Customer_Segment"
+      ],
+      "measures": [
+        "Campaign_ID",
+        "Conversion_Rate",
+        "ROI",
+        "Clicks",
+        "Impressions",
+        "Engagement_Score",
+        "Unnamed: 16"
+      ],
+      "datetime_cols": [],
+      "numeric_heavy": false,
+      "categorical_heavy": true,
+      "small_dataset": false,
+      "large_dataset": true,
+      "sequential_data": true,
+      "distribution_focus": true,
+      "has_performance_metrics": true,
+      "key_metrics": [
+        "Campaign_ID",
+        "Conversion_Rate",
+        "ROI"
+      ]
+    },
+    "session_id": "2025-06-10 12:12:01.779311"
+  },
+  {
+    "timestamp": "2025-06-10T12:14:08.586113",
+    "event_type": "dataset_uploaded",
+    "details": {
+      "filename": "marketing_campaign_dataset.csv",
+      "size": 200000
+    },
+    "dataset_metadata": {
+      "num_rows": 200000,
+      "num_cols": 17,
+      "num_numeric": 7,
+      "num_categorical": 10,
+      "num_datetime": 0,
+      "has_roi": true,
+      "has_time": true,
+      "has_performance": true,
+      "categorical_ratio": 0.5882352941176471,
+      "numeric_ratio": 0.4117647058823529,
+      "dimensions": [
+        "Date",
+        "Company",
+        "Campaign_Type",
+        "Target_Audience",
+        "Duration",
+        "Channel_Used",
+        "Acquisition_Cost",
+        "Location",
+        "Language",
+        "Customer_Segment"
+      ],
+      "measures": [
+        "Campaign_ID",
+        "Conversion_Rate",
+        "ROI",
+        "Clicks",
+        "Impressions",
+        "Engagement_Score",
+        "Unnamed: 16"
+      ],
+      "datetime_cols": [],
+      "numeric_heavy": false,
+      "categorical_heavy": true,
+      "small_dataset": false,
+      "large_dataset": true,
+      "sequential_data": true,
+      "distribution_focus": true,
+      "has_performance_metrics": true,
+      "key_metrics": [
+        "Campaign_ID",
+        "Conversion_Rate",
+        "ROI"
+      ]
+    },
+    "session_id": "2025-06-10 12:12:01.779311"
+  },
+  {
+    "timestamp": "2025-06-10T12:18:50.690289",
+    "event_type": "dataset_uploaded",
+    "details": {
+      "filename": "marketing_campaign_dataset.csv",
+      "size": 200000
+    },
+    "dataset_metadata": {
+      "num_rows": 200000,
+      "num_cols": 17,
+      "num_numeric": 7,
+      "num_categorical": 10,
+      "num_datetime": 0,
+      "has_roi": true,
+      "has_time": true,
+      "has_performance": true,
+      "categorical_ratio": 0.5882352941176471,
+      "numeric_ratio": 0.4117647058823529,
+      "dimensions": [
+        "Date",
+        "Company",
+        "Campaign_Type",
+        "Target_Audience",
+        "Duration",
+        "Channel_Used",
+        "Acquisition_Cost",
+        "Location",
+        "Language",
+        "Customer_Segment"
+      ],
+      "measures": [
+        "Campaign_ID",
+        "Conversion_Rate",
+        "ROI",
+        "Clicks",
+        "Impressions",
+        "Engagement_Score",
+        "Unnamed: 16"
+      ],
+      "datetime_cols": [],
+      "numeric_heavy": false,
+      "categorical_heavy": true,
+      "small_dataset": false,
+      "large_dataset": true,
+      "sequential_data": true,
+      "distribution_focus": true,
+      "has_performance_metrics": true,
+      "key_metrics": [
+        "Campaign_ID",
+        "Conversion_Rate",
+        "ROI"
+      ]
+    },
+    "session_id": "2025-06-10 12:18:38.068136"
+  },
+  {
+    "timestamp": "2025-06-10T12:19:15.576981",
+    "event_type": "preference_updated",
+    "details": {
+      "trends": 7,
+      "comparisons": 5
+    },
+    "dataset_metadata": {},
+    "session_id": "2025-06-10 12:18:38.068136"
+  },
+  {
+    "timestamp": "2025-06-10T12:19:16.163174",
+    "event_type": "dataset_uploaded",
+    "details": {
+      "filename": "marketing_campaign_dataset.csv",
+      "size": 200000
+    },
+    "dataset_metadata": {
+      "num_rows": 200000,
+      "num_cols": 17,
+      "num_numeric": 7,
+      "num_categorical": 10,
+      "num_datetime": 0,
+      "has_roi": true,
+      "has_time": true,
+      "has_performance": true,
+      "categorical_ratio": 0.5882352941176471,
+      "numeric_ratio": 0.4117647058823529,
+      "dimensions": [
+        "Date",
+        "Company",
+        "Campaign_Type",
+        "Target_Audience",
+        "Duration",
+        "Channel_Used",
+        "Acquisition_Cost",
+        "Location",
+        "Language",
+        "Customer_Segment"
+      ],
+      "measures": [
+        "Campaign_ID",
+        "Conversion_Rate",
+        "ROI",
+        "Clicks",
+        "Impressions",
+        "Engagement_Score",
+        "Unnamed: 16"
+      ],
+      "datetime_cols": [],
+      "numeric_heavy": false,
+      "categorical_heavy": true,
+      "small_dataset": false,
+      "large_dataset": true,
+      "sequential_data": true,
+      "distribution_focus": true,
+      "has_performance_metrics": true,
+      "key_metrics": [
+        "Campaign_ID",
+        "Conversion_Rate",
+        "ROI"
+      ]
+    },
+    "session_id": "2025-06-10 12:18:38.068136"
+  },
+  {
+    "timestamp": "2025-06-10T12:19:19.877983",
+    "event_type": "dataset_uploaded",
+    "details": {
+      "filename": "marketing_campaign_dataset.csv",
+      "size": 200000
+    },
+    "dataset_metadata": {
+      "num_rows": 200000,
+      "num_cols": 17,
+      "num_numeric": 7,
+      "num_categorical": 10,
+      "num_datetime": 0,
+      "has_roi": true,
+      "has_time": true,
+      "has_performance": true,
+      "categorical_ratio": 0.5882352941176471,
+      "numeric_ratio": 0.4117647058823529,
+      "dimensions": [
+        "Date",
+        "Company",
+        "Campaign_Type",
+        "Target_Audience",
+        "Duration",
+        "Channel_Used",
+        "Acquisition_Cost",
+        "Location",
+        "Language",
+        "Customer_Segment"
+      ],
+      "measures": [
+        "Campaign_ID",
+        "Conversion_Rate",
+        "ROI",
+        "Clicks",
+        "Impressions",
+        "Engagement_Score",
+        "Unnamed: 16"
+      ],
+      "datetime_cols": [],
+      "numeric_heavy": false,
+      "categorical_heavy": true,
+      "small_dataset": false,
+      "large_dataset": true,
+      "sequential_data": true,
+      "distribution_focus": true,
+      "has_performance_metrics": true,
+      "key_metrics": [
+        "Campaign_ID",
+        "Conversion_Rate",
+        "ROI"
+      ]
+    },
+    "session_id": "2025-06-10 12:18:38.068136"
+  },
+  {
+    "timestamp": "2025-06-10T12:19:41.428743",
+    "event_type": "dataset_uploaded",
+    "details": {
+      "filename": "marketing_campaign_dataset.csv",
+      "size": 200000
+    },
+    "dataset_metadata": {
+      "num_rows": 200000,
+      "num_cols": 17,
+      "num_numeric": 7,
+      "num_categorical": 10,
+      "num_datetime": 0,
+      "has_roi": true,
+      "has_time": true,
+      "has_performance": true,
+      "categorical_ratio": 0.5882352941176471,
+      "numeric_ratio": 0.4117647058823529,
+      "dimensions": [
+        "Date",
+        "Company",
+        "Campaign_Type",
+        "Target_Audience",
+        "Duration",
+        "Channel_Used",
+        "Acquisition_Cost",
+        "Location",
+        "Language",
+        "Customer_Segment"
+      ],
+      "measures": [
+        "Campaign_ID",
+        "Conversion_Rate",
+        "ROI",
+        "Clicks",
+        "Impressions",
+        "Engagement_Score",
+        "Unnamed: 16"
+      ],
+      "datetime_cols": [],
+      "numeric_heavy": false,
+      "categorical_heavy": true,
+      "small_dataset": false,
+      "large_dataset": true,
+      "sequential_data": true,
+      "distribution_focus": true,
+      "has_performance_metrics": true,
+      "key_metrics": [
+        "Campaign_ID",
+        "Conversion_Rate",
+        "ROI"
+      ]
+    },
+    "session_id": "2025-06-10 12:18:38.068136"
+  },
+  {
+    "timestamp": "2025-06-10T12:19:41.798104",
+    "event_type": "layout_applied",
+    "details": {
+      "layout_name": "ROI Optimization"
+    },
+    "dataset_metadata": {
+      "num_rows": 200000,
+      "num_cols": 17,
+      "num_numeric": 7,
+      "num_categorical": 10,
+      "num_datetime": 0,
+      "has_roi": true,
+      "has_time": true,
+      "has_performance": true,
+      "categorical_ratio": 0.5882352941176471,
+      "numeric_ratio": 0.4117647058823529,
+      "dimensions": [
+        "Date",
+        "Company",
+        "Campaign_Type",
+        "Target_Audience",
+        "Duration",
+        "Channel_Used",
+        "Acquisition_Cost",
+        "Location",
+        "Language",
+        "Customer_Segment"
+      ],
+      "measures": [
+        "Campaign_ID",
+        "Conversion_Rate",
+        "ROI",
+        "Clicks",
+        "Impressions",
+        "Engagement_Score",
+        "Unnamed: 16"
+      ],
+      "datetime_cols": [],
+      "numeric_heavy": false,
+      "categorical_heavy": true,
+      "small_dataset": false,
+      "large_dataset": true,
+      "sequential_data": true,
+      "distribution_focus": true,
+      "has_performance_metrics": true,
+      "key_metrics": [
+        "Campaign_ID",
+        "Conversion_Rate",
+        "ROI"
+      ]
+    },
+    "session_id": "2025-06-10 12:18:38.068136"
+  },
+  {
+    "timestamp": "2025-06-10T12:19:42.945349",
+    "event_type": "dataset_uploaded",
+    "details": {
+      "filename": "marketing_campaign_dataset.csv",
+      "size": 200000
+    },
+    "dataset_metadata": {
+      "num_rows": 200000,
+      "num_cols": 17,
+      "num_numeric": 7,
+      "num_categorical": 10,
+      "num_datetime": 0,
+      "has_roi": true,
+      "has_time": true,
+      "has_performance": true,
+      "categorical_ratio": 0.5882352941176471,
+      "numeric_ratio": 0.4117647058823529,
+      "dimensions": [
+        "Date",
+        "Company",
+        "Campaign_Type",
+        "Target_Audience",
+        "Duration",
+        "Channel_Used",
+        "Acquisition_Cost",
+        "Location",
+        "Language",
+        "Customer_Segment"
+      ],
+      "measures": [
+        "Campaign_ID",
+        "Conversion_Rate",
+        "ROI",
+        "Clicks",
+        "Impressions",
+        "Engagement_Score",
+        "Unnamed: 16"
+      ],
+      "datetime_cols": [],
+      "numeric_heavy": false,
+      "categorical_heavy": true,
+      "small_dataset": false,
+      "large_dataset": true,
+      "sequential_data": true,
+      "distribution_focus": true,
+      "has_performance_metrics": true,
+      "key_metrics": [
+        "Campaign_ID",
+        "Conversion_Rate",
+        "ROI"
+      ]
+    },
+    "session_id": "2025-06-10 12:18:38.068136"
+  },
+  {
+    "timestamp": "2025-06-10T12:20:27.076081",
+    "event_type": "dataset_uploaded",
+    "details": {
+      "filename": "marketing_campaign_dataset.csv",
+      "size": 200000
+    },
+    "dataset_metadata": {
+      "num_rows": 200000,
+      "num_cols": 17,
+      "num_numeric": 7,
+      "num_categorical": 10,
+      "num_datetime": 0,
+      "has_roi": true,
+      "has_time": true,
+      "has_performance": true,
+      "categorical_ratio": 0.5882352941176471,
+      "numeric_ratio": 0.4117647058823529,
+      "dimensions": [
+        "Date",
+        "Company",
+        "Campaign_Type",
+        "Target_Audience",
+        "Duration",
+        "Channel_Used",
+        "Acquisition_Cost",
+        "Location",
+        "Language",
+        "Customer_Segment"
+      ],
+      "measures": [
+        "Campaign_ID",
+        "Conversion_Rate",
+        "ROI",
+        "Clicks",
+        "Impressions",
+        "Engagement_Score",
+        "Unnamed: 16"
+      ],
+      "datetime_cols": [],
+      "numeric_heavy": false,
+      "categorical_heavy": true,
+      "small_dataset": false,
+      "large_dataset": true,
+      "sequential_data": true,
+      "distribution_focus": true,
+      "has_performance_metrics": true,
+      "key_metrics": [
+        "Campaign_ID",
+        "Conversion_Rate",
+        "ROI"
+      ]
+    },
+    "session_id": "2025-06-10 12:18:38.068136"
+  },
+  {
+    "timestamp": "2025-06-10T12:20:28.792922",
+    "event_type": "extended_viewing",
+    "details": {
+      "layout_name": "ROI Optimization",
+      "duration_seconds": 46.834976
+    },
+    "dataset_metadata": {
+      "num_rows": 200000,
+      "num_cols": 17,
+      "num_numeric": 7,
+      "num_categorical": 10,
+      "num_datetime": 0,
+      "has_roi": true,
+      "has_time": true,
+      "has_performance": true,
+      "categorical_ratio": 0.5882352941176471,
+      "numeric_ratio": 0.4117647058823529,
+      "dimensions": [
+        "Date",
+        "Company",
+        "Campaign_Type",
+        "Target_Audience",
+        "Duration",
+        "Channel_Used",
+        "Acquisition_Cost",
+        "Location",
+        "Language",
+        "Customer_Segment"
+      ],
+      "measures": [
+        "Campaign_ID",
+        "Conversion_Rate",
+        "ROI",
+        "Clicks",
+        "Impressions",
+        "Engagement_Score",
+        "Unnamed: 16"
+      ],
+      "datetime_cols": [],
+      "numeric_heavy": false,
+      "categorical_heavy": true,
+      "small_dataset": false,
+      "large_dataset": true,
+      "sequential_data": true,
+      "distribution_focus": true,
+      "has_performance_metrics": true,
+      "key_metrics": [
+        "Campaign_ID",
+        "Conversion_Rate",
+        "ROI"
+      ]
+    },
+    "session_id": "2025-06-10 12:18:38.068136"
+  },
+  {
+    "timestamp": "2025-06-10T12:20:31.300019",
+    "event_type": "dataset_uploaded",
+    "details": {
+      "filename": "marketing_campaign_dataset.csv",
+      "size": 200000
+    },
+    "dataset_metadata": {
+      "num_rows": 200000,
+      "num_cols": 17,
+      "num_numeric": 7,
+      "num_categorical": 10,
+      "num_datetime": 0,
+      "has_roi": true,
+      "has_time": true,
+      "has_performance": true,
+      "categorical_ratio": 0.5882352941176471,
+      "numeric_ratio": 0.4117647058823529,
+      "dimensions": [
+        "Date",
+        "Company",
+        "Campaign_Type",
+        "Target_Audience",
+        "Duration",
+        "Channel_Used",
+        "Acquisition_Cost",
+        "Location",
+        "Language",
+        "Customer_Segment"
+      ],
+      "measures": [
+        "Campaign_ID",
+        "Conversion_Rate",
+        "ROI",
+        "Clicks",
+        "Impressions",
+        "Engagement_Score",
+        "Unnamed: 16"
+      ],
+      "datetime_cols": [],
+      "numeric_heavy": false,
+      "categorical_heavy": true,
+      "small_dataset": false,
+      "large_dataset": true,
+      "sequential_data": true,
+      "distribution_focus": true,
+      "has_performance_metrics": true,
+      "key_metrics": [
+        "Campaign_ID",
+        "Conversion_Rate",
+        "ROI"
+      ]
+    },
+    "session_id": "2025-06-10 12:18:38.068136"
+  },
+  {
+    "timestamp": "2025-06-10T14:20:03.896048",
+    "event_type": "dataset_uploaded",
+    "details": {
+      "filename": "marketing_campaign_dataset.csv",
+      "size": 200000
+    },
+    "dataset_metadata": {
+      "num_rows": 200000,
+      "num_cols": 17,
+      "num_numeric": 7,
+      "num_categorical": 10,
+      "num_datetime": 0,
+      "has_roi": true,
+      "has_time": true,
+      "has_performance": true,
+      "categorical_ratio": 0.5882352941176471,
+      "numeric_ratio": 0.4117647058823529,
+      "dimensions": [
+        "Date",
+        "Company",
+        "Campaign_Type",
+        "Target_Audience",
+        "Duration",
+        "Channel_Used",
+        "Acquisition_Cost",
+        "Location",
+        "Language",
+        "Customer_Segment"
+      ],
+      "measures": [
+        "Campaign_ID",
+        "Conversion_Rate",
+        "ROI",
+        "Clicks",
+        "Impressions",
+        "Engagement_Score",
+        "Unnamed: 16"
+      ],
+      "datetime_cols": [],
+      "numeric_heavy": false,
+      "categorical_heavy": true,
+      "small_dataset": false,
+      "large_dataset": true,
+      "sequential_data": true,
+      "distribution_focus": true,
+      "has_performance_metrics": true,
+      "key_metrics": [
+        "Campaign_ID",
+        "Conversion_Rate",
+        "ROI"
+      ]
+    },
+    "session_id": "2025-06-10 14:19:46.944613"
+  },
+  {
+    "timestamp": "2025-06-10T14:20:18.800766",
+    "event_type": "dataset_uploaded",
+    "details": {
+      "filename": "marketing_campaign_dataset.csv",
+      "size": 200000
+    },
+    "dataset_metadata": {
+      "num_rows": 200000,
+      "num_cols": 17,
+      "num_numeric": 7,
+      "num_categorical": 10,
+      "num_datetime": 0,
+      "has_roi": true,
+      "has_time": true,
+      "has_performance": true,
+      "categorical_ratio": 0.5882352941176471,
+      "numeric_ratio": 0.4117647058823529,
+      "dimensions": [
+        "Date",
+        "Company",
+        "Campaign_Type",
+        "Target_Audience",
+        "Duration",
+        "Channel_Used",
+        "Acquisition_Cost",
+        "Location",
+        "Language",
+        "Customer_Segment"
+      ],
+      "measures": [
+        "Campaign_ID",
+        "Conversion_Rate",
+        "ROI",
+        "Clicks",
+        "Impressions",
+        "Engagement_Score",
+        "Unnamed: 16"
+      ],
+      "datetime_cols": [],
+      "numeric_heavy": false,
+      "categorical_heavy": true,
+      "small_dataset": false,
+      "large_dataset": true,
+      "sequential_data": true,
+      "distribution_focus": true,
+      "has_performance_metrics": true,
+      "key_metrics": [
+        "Campaign_ID",
+        "Conversion_Rate",
+        "ROI"
+      ]
+    },
+    "session_id": "2025-06-10 14:19:46.944613"
+  },
+  {
+    "timestamp": "2025-06-10T14:20:19.016636",
+    "event_type": "layout_applied",
+    "details": {
+      "layout_name": "ROI Optimization"
+    },
+    "dataset_metadata": {
+      "num_rows": 200000,
+      "num_cols": 17,
+      "num_numeric": 7,
+      "num_categorical": 10,
+      "num_datetime": 0,
+      "has_roi": true,
+      "has_time": true,
+      "has_performance": true,
+      "categorical_ratio": 0.5882352941176471,
+      "numeric_ratio": 0.4117647058823529,
+      "dimensions": [
+        "Date",
+        "Company",
+        "Campaign_Type",
+        "Target_Audience",
+        "Duration",
+        "Channel_Used",
+        "Acquisition_Cost",
+        "Location",
+        "Language",
+        "Customer_Segment"
+      ],
+      "measures": [
+        "Campaign_ID",
+        "Conversion_Rate",
+        "ROI",
+        "Clicks",
+        "Impressions",
+        "Engagement_Score",
+        "Unnamed: 16"
+      ],
+      "datetime_cols": [],
+      "numeric_heavy": false,
+      "categorical_heavy": true,
+      "small_dataset": false,
+      "large_dataset": true,
+      "sequential_data": true,
+      "distribution_focus": true,
+      "has_performance_metrics": true,
+      "key_metrics": [
+        "Campaign_ID",
+        "Conversion_Rate",
+        "ROI"
+      ]
+    },
+    "session_id": "2025-06-10 14:19:46.944613"
+  },
+  {
+    "timestamp": "2025-06-10T14:20:20.112949",
+    "event_type": "dataset_uploaded",
+    "details": {
+      "filename": "marketing_campaign_dataset.csv",
+      "size": 200000
+    },
+    "dataset_metadata": {
+      "num_rows": 200000,
+      "num_cols": 17,
+      "num_numeric": 7,
+      "num_categorical": 10,
+      "num_datetime": 0,
+      "has_roi": true,
+      "has_time": true,
+      "has_performance": true,
+      "categorical_ratio": 0.5882352941176471,
+      "numeric_ratio": 0.4117647058823529,
+      "dimensions": [
+        "Date",
+        "Company",
+        "Campaign_Type",
+        "Target_Audience",
+        "Duration",
+        "Channel_Used",
+        "Acquisition_Cost",
+        "Location",
+        "Language",
+        "Customer_Segment"
+      ],
+      "measures": [
+        "Campaign_ID",
+        "Conversion_Rate",
+        "ROI",
+        "Clicks",
+        "Impressions",
+        "Engagement_Score",
+        "Unnamed: 16"
+      ],
+      "datetime_cols": [],
+      "numeric_heavy": false,
+      "categorical_heavy": true,
+      "small_dataset": false,
+      "large_dataset": true,
+      "sequential_data": true,
+      "distribution_focus": true,
+      "has_performance_metrics": true,
+      "key_metrics": [
+        "Campaign_ID",
+        "Conversion_Rate",
+        "ROI"
+      ]
+    },
+    "session_id": "2025-06-10 14:19:46.944613"
+  },
+  {
+    "timestamp": "2025-06-10T14:20:22.444310",
+    "event_type": "dataset_uploaded",
+    "details": {
+      "filename": "marketing_campaign_dataset.csv",
+      "size": 200000
+    },
+    "dataset_metadata": {
+      "num_rows": 200000,
+      "num_cols": 17,
+      "num_numeric": 7,
+      "num_categorical": 10,
+      "num_datetime": 0,
+      "has_roi": true,
+      "has_time": true,
+      "has_performance": true,
+      "categorical_ratio": 0.5882352941176471,
+      "numeric_ratio": 0.4117647058823529,
+      "dimensions": [
+        "Date",
+        "Company",
+        "Campaign_Type",
+        "Target_Audience",
+        "Duration",
+        "Channel_Used",
+        "Acquisition_Cost",
+        "Location",
+        "Language",
+        "Customer_Segment"
+      ],
+      "measures": [
+        "Campaign_ID",
+        "Conversion_Rate",
+        "ROI",
+        "Clicks",
+        "Impressions",
+        "Engagement_Score",
+        "Unnamed: 16"
+      ],
+      "datetime_cols": [],
+      "numeric_heavy": false,
+      "categorical_heavy": true,
+      "small_dataset": false,
+      "large_dataset": true,
+      "sequential_data": true,
+      "distribution_focus": true,
+      "has_performance_metrics": true,
+      "key_metrics": [
+        "Campaign_ID",
+        "Conversion_Rate",
+        "ROI"
+      ]
+    },
+    "session_id": "2025-06-10 14:19:46.944613"
+  },
+  {
+    "timestamp": "2025-06-10T14:20:22.643811",
+    "event_type": "layout_applied",
+    "details": {
+      "layout_name": "ROI Optimization"
+    },
+    "dataset_metadata": {
+      "num_rows": 200000,
+      "num_cols": 17,
+      "num_numeric": 7,
+      "num_categorical": 10,
+      "num_datetime": 0,
+      "has_roi": true,
+      "has_time": true,
+      "has_performance": true,
+      "categorical_ratio": 0.5882352941176471,
+      "numeric_ratio": 0.4117647058823529,
+      "dimensions": [
+        "Date",
+        "Company",
+        "Campaign_Type",
+        "Target_Audience",
+        "Duration",
+        "Channel_Used",
+        "Acquisition_Cost",
+        "Location",
+        "Language",
+        "Customer_Segment"
+      ],
+      "measures": [
+        "Campaign_ID",
+        "Conversion_Rate",
+        "ROI",
+        "Clicks",
+        "Impressions",
+        "Engagement_Score",
+        "Unnamed: 16"
+      ],
+      "datetime_cols": [],
+      "numeric_heavy": false,
+      "categorical_heavy": true,
+      "small_dataset": false,
+      "large_dataset": true,
+      "sequential_data": true,
+      "distribution_focus": true,
+      "has_performance_metrics": true,
+      "key_metrics": [
+        "Campaign_ID",
+        "Conversion_Rate",
+        "ROI"
+      ]
+    },
+    "session_id": "2025-06-10 14:19:46.944613"
+  },
+  {
+    "timestamp": "2025-06-10T14:20:23.680191",
+    "event_type": "dataset_uploaded",
+    "details": {
+      "filename": "marketing_campaign_dataset.csv",
+      "size": 200000
+    },
+    "dataset_metadata": {
+      "num_rows": 200000,
+      "num_cols": 17,
+      "num_numeric": 7,
+      "num_categorical": 10,
+      "num_datetime": 0,
+      "has_roi": true,
+      "has_time": true,
+      "has_performance": true,
+      "categorical_ratio": 0.5882352941176471,
+      "numeric_ratio": 0.4117647058823529,
+      "dimensions": [
+        "Date",
+        "Company",
+        "Campaign_Type",
+        "Target_Audience",
+        "Duration",
+        "Channel_Used",
+        "Acquisition_Cost",
+        "Location",
+        "Language",
+        "Customer_Segment"
+      ],
+      "measures": [
+        "Campaign_ID",
+        "Conversion_Rate",
+        "ROI",
+        "Clicks",
+        "Impressions",
+        "Engagement_Score",
+        "Unnamed: 16"
+      ],
+      "datetime_cols": [],
+      "numeric_heavy": false,
+      "categorical_heavy": true,
+      "small_dataset": false,
+      "large_dataset": true,
+      "sequential_data": true,
+      "distribution_focus": true,
+      "has_performance_metrics": true,
+      "key_metrics": [
+        "Campaign_ID",
+        "Conversion_Rate",
+        "ROI"
+      ]
+    },
+    "session_id": "2025-06-10 14:19:46.944613"
+  },
+  {
+    "timestamp": "2025-06-10T14:20:48.078052",
+    "event_type": "dataset_uploaded",
+    "details": {
+      "filename": "marketing_campaign_dataset.csv",
+      "size": 200000
+    },
+    "dataset_metadata": {
+      "num_rows": 200000,
+      "num_cols": 17,
+      "num_numeric": 7,
+      "num_categorical": 10,
+      "num_datetime": 0,
+      "has_roi": true,
+      "has_time": true,
+      "has_performance": true,
+      "categorical_ratio": 0.5882352941176471,
+      "numeric_ratio": 0.4117647058823529,
+      "dimensions": [
+        "Date",
+        "Company",
+        "Campaign_Type",
+        "Target_Audience",
+        "Duration",
+        "Channel_Used",
+        "Acquisition_Cost",
+        "Location",
+        "Language",
+        "Customer_Segment"
+      ],
+      "measures": [
+        "Campaign_ID",
+        "Conversion_Rate",
+        "ROI",
+        "Clicks",
+        "Impressions",
+        "Engagement_Score",
+        "Unnamed: 16"
+      ],
+      "datetime_cols": [],
+      "numeric_heavy": false,
+      "categorical_heavy": true,
+      "small_dataset": false,
+      "large_dataset": true,
+      "sequential_data": true,
+      "distribution_focus": true,
+      "has_performance_metrics": true,
+      "key_metrics": [
+        "Campaign_ID",
+        "Conversion_Rate",
+        "ROI"
+      ]
+    },
+    "session_id": "2025-06-10 14:19:46.944613"
+  },
+  {
+    "timestamp": "2025-06-10T14:20:48.660061",
+    "event_type": "extended_viewing",
+    "details": {
+      "layout_name": "ROI Optimization",
+      "duration_seconds": 25.879063
+    },
+    "dataset_metadata": {
+      "num_rows": 200000,
+      "num_cols": 17,
+      "num_numeric": 7,
+      "num_categorical": 10,
+      "num_datetime": 0,
+      "has_roi": true,
+      "has_time": true,
+      "has_performance": true,
+      "categorical_ratio": 0.5882352941176471,
+      "numeric_ratio": 0.4117647058823529,
+      "dimensions": [
+        "Date",
+        "Company",
+        "Campaign_Type",
+        "Target_Audience",
+        "Duration",
+        "Channel_Used",
+        "Acquisition_Cost",
+        "Location",
+        "Language",
+        "Customer_Segment"
+      ],
+      "measures": [
+        "Campaign_ID",
+        "Conversion_Rate",
+        "ROI",
+        "Clicks",
+        "Impressions",
+        "Engagement_Score",
+        "Unnamed: 16"
+      ],
+      "datetime_cols": [],
+      "numeric_heavy": false,
+      "categorical_heavy": true,
+      "small_dataset": false,
+      "large_dataset": true,
+      "sequential_data": true,
+      "distribution_focus": true,
+      "has_performance_metrics": true,
+      "key_metrics": [
+        "Campaign_ID",
+        "Conversion_Rate",
+        "ROI"
+      ]
+    },
+    "session_id": "2025-06-10 14:19:46.944613"
+  },
+  {
+    "timestamp": "2025-06-10T14:20:51.360408",
+    "event_type": "dataset_uploaded",
+    "details": {
+      "filename": "marketing_campaign_dataset.csv",
+      "size": 200000
+    },
+    "dataset_metadata": {
+      "num_rows": 200000,
+      "num_cols": 17,
+      "num_numeric": 7,
+      "num_categorical": 10,
+      "num_datetime": 0,
+      "has_roi": true,
+      "has_time": true,
+      "has_performance": true,
+      "categorical_ratio": 0.5882352941176471,
+      "numeric_ratio": 0.4117647058823529,
+      "dimensions": [
+        "Date",
+        "Company",
+        "Campaign_Type",
+        "Target_Audience",
+        "Duration",
+        "Channel_Used",
+        "Acquisition_Cost",
+        "Location",
+        "Language",
+        "Customer_Segment"
+      ],
+      "measures": [
+        "Campaign_ID",
+        "Conversion_Rate",
+        "ROI",
+        "Clicks",
+        "Impressions",
+        "Engagement_Score",
+        "Unnamed: 16"
+      ],
+      "datetime_cols": [],
+      "numeric_heavy": false,
+      "categorical_heavy": true,
+      "small_dataset": false,
+      "large_dataset": true,
+      "sequential_data": true,
+      "distribution_focus": true,
+      "has_performance_metrics": true,
+      "key_metrics": [
+        "Campaign_ID",
+        "Conversion_Rate",
+        "ROI"
+      ]
+    },
+    "session_id": "2025-06-10 14:19:46.944613"
+  },
+  {
+    "timestamp": "2025-06-10T14:20:53.860181",
+    "event_type": "dataset_uploaded",
+    "details": {
+      "filename": "marketing_campaign_dataset.csv",
+      "size": 200000
+    },
+    "dataset_metadata": {
+      "num_rows": 200000,
+      "num_cols": 17,
+      "num_numeric": 7,
+      "num_categorical": 10,
+      "num_datetime": 0,
+      "has_roi": true,
+      "has_time": true,
+      "has_performance": true,
+      "categorical_ratio": 0.5882352941176471,
+      "numeric_ratio": 0.4117647058823529,
+      "dimensions": [
+        "Date",
+        "Company",
+        "Campaign_Type",
+        "Target_Audience",
+        "Duration",
+        "Channel_Used",
+        "Acquisition_Cost",
+        "Location",
+        "Language",
+        "Customer_Segment"
+      ],
+      "measures": [
+        "Campaign_ID",
+        "Conversion_Rate",
+        "ROI",
+        "Clicks",
+        "Impressions",
+        "Engagement_Score",
+        "Unnamed: 16"
+      ],
+      "datetime_cols": [],
+      "numeric_heavy": false,
+      "categorical_heavy": true,
+      "small_dataset": false,
+      "large_dataset": true,
+      "sequential_data": true,
+      "distribution_focus": true,
+      "has_performance_metrics": true,
+      "key_metrics": [
+        "Campaign_ID",
+        "Conversion_Rate",
+        "ROI"
+      ]
+    },
+    "session_id": "2025-06-10 14:19:46.944613"
+  }
+]
